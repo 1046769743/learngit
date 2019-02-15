@@ -1,0 +1,16 @@
+--[[
+    Author: caocheng
+    Date:2017-10-31
+    Description: 五灵养成消息
+]]
+
+local WuLingEvent = {}
+
+WuLingEvent.WULINGEVENT_MAINVIEW_CHANGE = "WULINGEVENT_MAINVIEW_CHANGE"
+
+WuLingEvent.WULINGEVENT_MAINVIEW_UPDATA = "WULINGEVENT_MAINVIEW_UPDATA"
+
+--更新战斗力
+WuLingEvent.WULINGEVENT_POWER_UPDATA = "WULINGEVENT_POWER_UPDATA"
+
+return WuLingEvent

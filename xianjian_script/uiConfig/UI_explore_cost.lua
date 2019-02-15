@@ -1,0 +1,17 @@
+local UI_explore_cost={ch={[1]={img="explore_img_di.png",m={[1]=-220.9,[2]=35.95,[3]=1,[4]=1,[5]=0,[6]=0,},na="instance_1",t="image",
+},[2]={co={align="right",color=16775645,fontName="gameFont1",fontSize=22,text="移动消耗",
+},h=40,m={[1]=-282.4,[2]=16.45,[3]=1,[4]=1,[5]=0,[6]=0,},na="txt_1",t="txt",w=218,
+},[3]={co={color=16775645,fontName="gameFont1",fontSize=22,text="50",
+},h=40,m={[1]=-30.4,[2]=16.45,[3]=1,[4]=1,[5]=0,[6]=0,},na="txt_2",t="txt",w=45,
+},[4]={img="explore_img_xingdongli.png",m={[1]=-63.8,[2]=19.85,[3]=0.85,[4]=0.85,[5]=0,[6]=0,},na="instance_1",t="image",
+},[5]={ar={h=50,w=50,x=-9,y=-37,
+},fm={[1]={[1]={img="explore_img_cuo.png",m={[1]=0,[2]=0,[3]=1,[4]=1,[5]=0,[6]=0,},na="instance_1",t="image",
+},[2]={img="global_bg_alpha.png",m={[1]=-9.4,[2]=12.55,[3]=12.501,[4]=12.502,[5]=0,[6]=0,},na="instance_1",t="image",
+},},},m={[1]=40.9,[2]=13.1,[3]=1,[4]=1,[5]=0,[6]=0,},na="btn_1",t="btn",
+},[6]={ar={h=80,w=90,x=-23,y=-59,
+},fm={[1]={[1]={img="global_bg_alpha.png",m={[1]=-22.95,[2]=21,[3]=22.503,[4]=20.004,[5]=0,[6]=0,},na="instance_1",t="image",
+},[2]={img="explore_img_dui.png",m={[1]=0,[2]=0,[3]=1,[4]=1,[5]=0,[6]=0,},na="instance_1",t="image",
+},},},m={[1]=108.9,[2]=18.1,[3]=1,[4]=1,[5]=0,[6]=0,},na="btn_2",t="btn",
+},},cl="UI_explore_cost",na="UI_explore_cost",
+}
+ return UI_explore_cost

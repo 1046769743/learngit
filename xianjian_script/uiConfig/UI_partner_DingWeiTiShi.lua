@@ -1,0 +1,16 @@
+local UI_partner_DingWeiTiShi={ch={[1]={img="partner_img_xiaotanchu.png",m={[1]=436.95,[2]=-228.95,[3]=1,[4]=1,[5]=0,[6]=0,},na="instance_1",t="image",
+},[2]={img="global_bg_tcbiaoti.png",m={[1]=552.95,[2]=-223.95,[3]=1,[4]=1,[5]=0,[6]=0,},na="instance_1",t="image",
+},[3]={ar={h=93,w=157,x=-21,y=-83,
+},fm={[1]={[1]={img="global_bg_alpha.png",m={[1]=-20.8,[2]=9.7,[3]=39.243,[4]=23.248,[5]=0,[6]=0,},na="instance_1",t="image",
+},[2]={img="global_btn_guanbi.png",m={[1]=14.5,[2]=-5,[3]=1,[4]=1,[5]=0,[6]=0,},na="instance_1",t="image",
+},},},m={[1]=825.9,[2]=-222.45,[3]=0.83,[4]=0.83,[5]=0,[6]=0,},na="btn_close",t="btn",
+},[4]={img="partner_img_lankui.png",m={[1]=173,[2]=-157,[3]=1,[4]=1,[5]=0,[6]=0,},na="instance_1",t="image",
+},[5]={co={align="left",color=9004875,fontName="gameFont1",fontSize=22,text="主角的定位（攻防辅）根据佩戴的法宝而定",valign="up",
+},h=73,m={[1]=510.95,[2]=-264.95,[3]=1,[4]=1,[5]=0,[6]=0,},na="txt_2",t="txt",w=317,
+},[6]={co={align="left",color=12748886,fontName="gameFont1",fontSize=20,text="嘘！告诉少侠一个秘密，主角可随便更换法宝哦！",valign="up",
+},h=73,m={[1]=510.95,[2]=-328.95,[3]=1,[4]=1,[5]=0,[6]=0,},na="txt_3",t="txt",w=325,
+},[7]={co={color=8214076,fontName="gameFont1",outLine=5905172,text="主角定位提示",
+},h=40,m={[1]=572.6,[2]=-223.8,[3]=1,[4]=1,[5]=0,[6]=0,},na="txt_1",t="txt",w=200,
+},},cl="UI_partner_DingWeiTiShi",na="UI_partner_DingWeiTiShi",
+}
+ return UI_partner_DingWeiTiShi

@@ -1,0 +1,16 @@
+local UI_explore_buy={ch={[1]={cl="UI_comp_tc2",m={[1]=0,[2]=0,[3]=1,[4]=1,[5]=0,[6]=0,},na="UI_1",t="UI",
+},[2]={co={align="right",color=10053120,fontName="gameFont1",fontSize=18,text="购买",
+},h=40,m={[1]=432.45,[2]=-249.45,[3]=1,[4]=1,[5]=0,[6]=0,},na="txt_1",t="txt",w=62,
+},[3]={co={color=10053120,fontName="gameFont1",fontSize=18,text="50",
+},h=40,m={[1]=522.45,[2]=-249.45,[3]=1,[4]=1,[5]=0,[6]=0,},na="txt_2",t="txt",w=45,
+},[4]={co={align="left",color=10053120,fontName="gameFont1",fontSize=18,text="需花费",
+},h=40,m={[1]=559.45,[2]=-249.45,[3]=1,[4]=1,[5]=0,[6]=0,},na="txt_3",t="txt",w=207,
+},[5]={img="global_img_yuanbao.png",m={[1]=618.3,[2]=-246.25,[3]=0.5,[4]=0.5,[5]=0,[6]=0,},na="instance_1",t="image",
+},[6]={co={color=10053120,fontName="gameFont1",fontSize=18,text="50",
+},h=40,m={[1]=647.45,[2]=-249.45,[3]=1,[4]=1,[5]=0,[6]=0,},na="txt_4",t="txt",w=45,
+},[7]={co={color=10053120,fontName="gameFont1",fontSize=18,text="是否继续购买？",
+},h=40,m={[1]=463.45,[2]=-296.45,[3]=1,[4]=1,[5]=0,[6]=0,},na="txt_5",t="txt",w=207,
+},[8]={img="explore_img_xingdongli.png",m={[1]=493.5,[2]=-247.8,[3]=0.8,[4]=0.8,[5]=0,[6]=0,},na="instance_1",t="image",
+},},cl="UI_explore_buy",na="UI_explore_buy",
+}
+ return UI_explore_buy

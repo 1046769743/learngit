@@ -1,0 +1,20 @@
+local UI_team_chai4={ch={[1]={ch={[1]={an={x=0,y=1,
+},h=300,img="global_tips_bg.png",m={[1]=0,[2]=0,[3]=1,[4]=1,[5]=0,[6]=0,},na="scale9_10",s9={h=13,w=21,x=58,y=24,
+},t="scale9",w=630,
+},[2]={co={
+},h=280,m={[1]=11.55,[2]=-11.05,[3]=1,[4]=1,[5]=0,[6]=0,},na="scroll_1",t="scroll",w=610,
+},[3]={ch={[1]={co={align="left",color=16775645,fontName="gameFont1",fontSize=22,text="英雄名字：",
+},h=40,m={[1]=0,[2]=0,[3]=1,[4]=1,[5]=0,[6]=0,},na="txt_name",t="txt",w=400,
+},[2]={co={align="right",color=12748886,fontName="gameFont1",fontSize=20,text="雷霆阵眼加成 ",
+},h=40,m={[1]=0,[2]=-27,[3]=1,[4]=1,[5]=0,[6]=0,},na="txt_1",t="txt",w=130,
+},[3]={co={align="left",color=12748886,fontName="gameFont1",fontSize=20,text="火系抗性+20% ",
+},h=40,m={[1]=141,[2]=-27,[3]=1,[4]=1,[5]=0,[6]=0,},na="txt_2",t="txt",w=150,
+},[4]={co={align="right",color=12748886,fontName="gameFont1",fontSize=20,text="五灵属性契合",
+},h=40,m={[1]=290.95,[2]=-27,[3]=1,[4]=1,[5]=0,[6]=0,},na="txt_3",t="txt",w=130,
+},[5]={co={align="left",color=12748886,fontName="gameFont1",fontSize=20,text="仙术等级+15",
+},h=40,m={[1]=431.95,[2]=-27,[3]=1,[4]=1,[5]=0,[6]=0,},na="txt_4",t="txt",w=130,
+},},m={[1]=36.7,[2]=-13.8,[3]=1,[4]=1,[5]=0,[6]=0,},na="panel_1",t="panel",
+},},m={[1]=0,[2]=0,[3]=1,[4]=1,[5]=0,[6]=0,},na="panel_qixiaxiangqing",t="panel",
+},},cl="UI_team_chai4",na="UI_team_chai4",
+}
+ return UI_team_chai4

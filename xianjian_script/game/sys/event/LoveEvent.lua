@@ -1,0 +1,8 @@
+--caocheng
+
+local LoveEvent = {}
+
+LoveEvent.LOVEEVENT_CHANGERED_LOVE = "LOVEEVENT_CHANGERED_LOVE"
+LoveEvent.LOVEEVENT_UPDATA_LOVE = "LOVEEVENT_UPDATA_LOVE"
+
+return LoveEvent

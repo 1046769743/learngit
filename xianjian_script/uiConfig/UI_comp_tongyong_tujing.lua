@@ -1,0 +1,18 @@
+local UI_comp_tongyong_tujing={ch={[1]={cl="UI_comp_tc",m={[1]=0,[2]=0,[3]=1,[4]=1,[5]=0,[6]=0,},na="UI_1",t="UI",
+},[2]={cl="UI_comp_goodsItem_mc",m={[1]=378.65,[2]=-143,[3]=1,[4]=1,[5]=0,[6]=0,},na="UI_goods",t="UI",
+},[3]={co={align="left",color=16768099,fontName="gameFont1",fontSize=28,outLine=9198133,outLineSize=2,text="道具名字六字",
+},h=40,m={[1]=484,[2]=-145.35,[3]=1,[4]=1,[5]=0,[6]=0,},na="txt_2",t="txt",w=305,
+},[4]={co={align="left",color=8736545,fontName="systemFont",fontSize=20,text="拥有30个",valign="up",
+},h=35,m={[1]=484,[2]=-199.35,[3]=1,[4]=1,[5]=0,[6]=0,},na="rich_3",t="rich",w=320,
+},[5]={co={align="left",color=8736545,fontName="systemFont",fontSize=20,text="道具描述道具描述道具描述道具描述道具描述道具描述",valign="up",
+},h=60,m={[1]=365,[2]=-240.35,[3]=1,[4]=1,[5]=0,[6]=0,},na="txt_4",t="txt",w=414.95,
+},[6]={ch={[1]={img="global_bg_fenge.png",m={[1]=0,[2]=0,[3]=1,[4]=1,[5]=0,[6]=0,},na="instance_1",t="image",
+},[2]={img="global_bg_fenge.png",m={[1]=487,[2]=0,[3]=1,[4]=1,[5]=0,[6]=180,},na="instance_1",t="image",
+},[3]={co={color=8736545,fontName="gameFont1",outLine=10053120,text="获取途径",
+},h=40,m={[1]=143.95,[2]=13.55,[3]=1,[4]=1,[5]=0,[6]=0,},na="txt_1",t="txt",w=200,
+},},m={[1]=323.95,[2]=-306.9,[3]=1,[4]=1,[5]=0,[6]=0,},na="panel_2",t="panel",
+},[7]={co={dy=7,hei=91,ox=6.4,oy=4,wid=473.05,
+},h=240,m={[1]=353.05,[2]=-330.35,[3]=1,[4]=1,[5]=0,[6]=0,},na="scroll_list",t="scroll",w=429,
+},},cl="UI_comp_tongyong_tujing",na="UI_comp_tongyong_tujing",
+}
+ return UI_comp_tongyong_tujing

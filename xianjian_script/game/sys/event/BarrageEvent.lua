@@ -1,0 +1,31 @@
+
+local BarrageEvent = {}
+
+BarrageEvent.REMOVE_BARRAGE_UI = "REMOVE_BARRAGE_UI"  --删除弹幕界面
+
+BarrageEvent.RECREATE_BARRAGE_UI = "RECREATE_BARRAGE_UI"  ---重新创建弹幕
+
+BarrageEvent.COMMENTS_TO_BARRAGE_UI = "COMMENTS_TO_BARRAGE_UI"  --评论发送弹幕到弹幕主城
+
+BarrageEvent.CROSSPEAK_TOBARRAGE_UI = "CROSSPEAK_TOBARRAGE_UI"  --巅峰竞技场的信息到主界面
+
+BarrageEvent.BARRAGE_UI_IS_SHOW = "BARRAGE_UI_IS_SHOW"  --弹幕显示
+
+BarrageEvent.BARRAGE_UI_IS_NOT_SHOW = "BARRAGE_UI_IS_NOT_SHOW"  --弹幕不显示
+
+BarrageEvent.BARRAGE_CHAT_PRICES = "BARRAGE_CHAT_PRICES" --在巅峰里面的私聊监听事件
+
+BarrageEvent.BARRAGE_PLOT_EVENT = "BARRAGE_PLOT_EVENT" --剧情对话事件
+
+BarrageEvent.BARRAGE_SEND_PLOT_MYSELF_EVENT = "BARRAGE_SEND_PLOT_MYSELF_EVENT"  --剧情发送到服务器
+
+BarrageEvent.BARRAGE_CHAT_SET_SHOW_EVENT = "BARRAGE_CHAT_SET_SHOW_EVENT"   --聊天设置界面显示弹幕类型
+
+BarrageEvent.BARRAGE_RANK_COMMENT_UI_EVENT = "BARRAGE_RANK_COMMENT_UI_EVENT"   --获取关卡评论时的新数据
+
+BarrageEvent.BARRAGE_REMVOE_VOICE_UI = "BARRAGE_REMVOE_VOICE_UI"  --去掉弹幕界面的语音输入界面
+
+BarrageEvent.BARRAGE_LOVE_SYSTEM_DATA = "BARRAGE_LOVE_SYSTEM_DATA"  --缘伴系统推送的数据
+
+
+return BarrageEvent

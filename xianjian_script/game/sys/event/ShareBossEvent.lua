@@ -1,0 +1,21 @@
+--
+-- Author: lxh
+-- Date: 2017-10-19
+
+local ShareBossEvent = {}
+
+ShareBossEvent.SHAREBOSS_NUM_CHANGED = "SHAREBOSS_NUM_CHANGED"
+ShareBossEvent.COUNT_TYPE_SHAREBOSS_TRIGGER = "COUNT_TYPE_SHAREBOSS_TRIGGER"
+ShareBossEvent.SHAREBOSS_DATA_CHANGED = "SHAREBOSS_DATA_CHANGED"
+ShareBossEvent.SHAREBOSS_RANK_DATA_CHANGED = "SHAREBOSS_RANK_DATA_CHANGED"
+ShareBossEvent.SHAREBOSS_CHALLENGE_RESET = "SHAREBOSS_CHALLENGE_RESET"
+--打开一个boss详情界面
+ShareBossEvent.OPEN_ONE_DETAILVIEW = "ShareBossEvent.OPEN_ONE_DETAILVIEW"
+--隐藏boss详情界面
+ShareBossEvent.HIDE_BOSS_DETAILVIEW = "ShareBossEvent.HIDE_BOSS_DETAILVIEW"
+--显示出所有bossView
+ShareBossEvent.SET_BOSSVIEW_VISIBLE = "ShareBossEvent.SET_BOSSVIEW_VISIBLE"
+--切换到上一个或者下一个bossView
+ShareBossEvent.SWITCH_BOSSVIEW = "ShareBossEvent.SWITCH_BOSSVIEW"
+
+return ShareBossEvent

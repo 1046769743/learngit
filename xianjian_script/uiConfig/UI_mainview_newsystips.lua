@@ -1,0 +1,17 @@
+local UI_mainview_newsystips={ch={[1]={h=204,m={[1]=253,[2]=-274,[3]=1,[4]=1,[5]=0,[6]=0,},na="ctn_2",t="ctn",w=204,
+},[2]={h=120,m={[1]=941.45,[2]=-269.75,[3]=1,[4]=1,[5]=0,[6]=0,},na="ctn_xxx",t="ctn",w=600,
+},[3]={ch={[1]={img="systemopen_img_wenzidi.png",m={[1]=0,[2]=-2,[3]=1,[4]=1,[5]=0,[6]=0,},na="instance_1",t="image",
+},[2]={co={align="left",color=16772013,fontName="gameFont1",outLine=15161379,outLineSize=1,text="想成为仙剑世界中最强大的人么",
+},h=50,m={[1]=76.95,[2]=-58.5,[3]=1,[4]=1,[5]=0,[6]=0,},na="txt_miao",t="txt",w=614,
+},[3]={co={align="left",color=13931872,fontName="systemFont",fontSize=20,text="感觉战力不如人？穿戴本命法宝可大夫提升战力",valign="up",
+},h=69.8,m={[1]=79.95,[2]=-119.5,[3]=1,[4]=1,[5]=0,[6]=0,},na="rich_miaoshu",t="rich",w=605.05,
+},[4]={ar={h=88,w=124,x=-23,y=-72,
+},fm={[1]={[1]={img="global_bg_alpha.png",m={[1]=-23.35,[2]=15.9,[3]=31,[4]=22.005,[5]=0,[6]=0,},na="instance_1",t="image",
+},[2]={img="global_btn_guanbi.png",m={[1]=-0.5,[2]=0,[3]=1,[4]=1,[5]=0,[6]=0,},na="instance_1",t="image",
+},},},m={[1]=793.55,[2]=-12.45,[3]=1,[4]=1,[5]=0,[6]=0,},na="btn_close",t="btn",
+},[5]={h=64,m={[1]=94.45,[2]=-0.95,[3]=1,[4]=1,[5]=0,[6]=0,},na="ctn_xf",t="ctn",w=210,
+},[6]={img="systemopen_img_fegexian.png",m={[1]=11.95,[2]=-101,[3]=1,[4]=1,[5]=0,[6]=0,},na="instance_1",t="image",
+},},m={[1]=448.95,[2]=-189.55,[3]=1,[4]=1,[5]=0,[6]=0,},na="panel_txts",t="panel",
+},},cl="UI_mainview_newsystips",na="UI_mainview_newsystips",
+}
+ return UI_mainview_newsystips

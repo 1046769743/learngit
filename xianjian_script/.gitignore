@@ -1,0 +1,12 @@
+.DS_Store
+main.lua
+/MyTest
+/.idea
+/heraclesScript.iml
+*.swp
+*.sh
+tags
+.tagfilelist
+devconfig.lua
+/config_debug.lua
+script.iml

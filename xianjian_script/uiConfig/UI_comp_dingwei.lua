@@ -1,0 +1,18 @@
+local UI_comp_dingwei={ch={[1]={ch={[1]={fm={[1]={[1]={img="global_img_hui.png",m={[1]=-25.5,[2]=25.5,[3]=1,[4]=1,[5]=0,[6]=0,},na="instance_1",t="image",
+},},[2]={[1]={img="global_img_feng2.png",m={[1]=-25.5,[2]=25.5,[3]=1,[4]=1,[5]=0,[6]=0,},na="instance_1",t="image",
+},},[3]={[1]={img="global_img_lei2.png",m={[1]=-25.5,[2]=25.5,[3]=1,[4]=1,[5]=0,[6]=0,},na="instance_1",t="image",
+},},[4]={[1]={img="global_img_shui2.png",m={[1]=-25.5,[2]=25.5,[3]=1,[4]=1,[5]=0,[6]=0,},na="instance_1",t="image",
+},},[5]={[1]={img="global_img_huo2.png",m={[1]=-25.5,[2]=25.5,[3]=1,[4]=1,[5]=0,[6]=0,},na="instance_1",t="image",
+},},[6]={[1]={img="global_img_tu2.png",m={[1]=-25.5,[2]=25.5,[3]=1,[4]=1,[5]=0,[6]=0,},na="instance_1",t="image",
+},},},h=51,m={[1]=25.5,[2]=-25.5,[3]=1,[4]=1,[5]=0,[6]=0,},na="mc_tu3",t="mc",w=51,
+},[2]={fm={[1]={[1]={img="global_bg_alpha.png",m={[1]=-15.5,[2]=20.75,[3]=7.75,[4]=9.748,[5]=0,[6]=0,},na="instance_1",t="image",
+},},[2]={[1]={img="global_img_feng.png",m={[1]=-14.25,[2]=11.5,[3]=1,[4]=1,[5]=0,[6]=0,},na="instance_1",t="image",
+},},[3]={[1]={img="global_img_lei.png",m={[1]=-13.9,[2]=10.85,[3]=1,[4]=1,[5]=0,[6]=0,},na="instance_1",t="image",
+},},[4]={[1]={img="global_img_shui.png",m={[1]=-13.3,[2]=11.25,[3]=1,[4]=1,[5]=0,[6]=0,},na="instance_1",t="image",
+},},[5]={[1]={img="global_img_huoy.png",m={[1]=-12.75,[2]=12,[3]=1,[4]=1,[5]=0,[6]=0,},na="instance_1",t="image",
+},},[6]={[1]={img="global_img_tu.png",m={[1]=-13.35,[2]=12.85,[3]=1,[4]=1,[5]=0,[6]=0,},na="instance_1",t="image",
+},},},h=39,m={[1]=25.5,[2]=-24.5,[3]=1,[4]=1,[5]=0,[6]=0,},na="mc_tu2",t="mc",w=31,
+},},m={[1]=0,[2]=0,[3]=0.7,[4]=0.7,[5]=0,[6]=0,},na="panel_xxnn",t="panel",
+},},cl="UI_comp_dingwei",na="UI_comp_dingwei",
+}
+ return UI_comp_dingwei

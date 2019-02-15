@@ -1,0 +1,16 @@
+local UI_tower_tishi={ch={[1]={cl="UI_comp_tc2",m={[1]=-2,[2]=0,[3]=1,[4]=1,[5]=0,[6]=0,},na="UI_1",t="UI",
+},[2]={co={color=16711680,fontName="gameFont1",fontSize=20,text="高层不可再次回到低层",
+},h=40,m={[1]=362.3,[2]=-349.95,[3]=1,[4]=1,[5]=0,[6]=0,},na="rich_1",t="rich",w=411,
+},[3]={fm={[1]={[1]={co={align="right",color=8736545,fontName="systemFont",fontSize=22,text="是否花费",
+},h=40,m={[1]=0,[2]=8,[3]=1,[4]=1,[5]=0,[6]=0,},na="txt_1",t="txt",w=187,
+},[2]={img="global_img_yuanbao.png",m={[1]=179.5,[2]=14.5,[3]=0.6,[4]=0.6,[5]=0,[6]=0,},na="instance_1",t="image",
+},[3]={co={color=8736545,fontName="systemFont",fontSize=22,text="100",
+},h=40,m={[1]=215,[2]=8,[3]=1,[4]=1,[5]=0,[6]=0,},na="txt_2",t="txt",w=60,
+},[4]={co={align="left",color=8736545,fontName="systemFont",fontSize=22,text="重置挑战次数？",
+},h=40,m={[1]=270,[2]=8,[3]=1,[4]=1,[5]=0,[6]=0,},na="txt_3",t="txt",w=187,
+},},[2]={[1]={co={color=6634528,fontName="gameFont1",fontSize=20,text="本层中有尚未击杀的怪物或未领取的奖励，是否继续前往锁妖塔2层？",
+},h=84,m={[1]=35,[2]=0,[3]=1,[4]=1,[5]=0,[6]=0,},na="txt_1",t="txt",w=411,
+},},},h=48,m={[1]=322.3,[2]=-253.95,[3]=1,[4]=1,[5]=0,[6]=0,},na="mc_1",t="mc",w=457,
+},},cl="UI_tower_tishi",na="UI_tower_tishi",
+}
+ return UI_tower_tishi

@@ -1,0 +1,15 @@
+local UI_world_new_jump={ch={[1]={co={color=16777215,fontName="gameFont1",fontSize=38,outLine=9469063,outLineSize=2,text="仙灵岛初见",
+},h=40,m={[1]=-200,[2]=20.05,[3]=1,[4]=1,[5]=0,[6]=0,},na="txt_raidTitle",t="txt",w=400,
+},[2]={ar={h=74,w=124,x=-33,y=-64,
+},fm={[1]={[1]={img="global_bg_alpha.png",m={[1]=-32.75,[2]=10.2,[3]=30.993,[4]=18.505,[5]=0,[6]=0,},na="instance_1",t="image",
+},[2]={img="world_btn_likai.png",m={[1]=0,[2]=0,[3]=1,[4]=1,[5]=0,[6]=0,},na="instance_1",t="image",
+},},},m={[1]=-28.7,[2]=-106.1,[3]=1,[4]=1,[5]=0,[6]=0,},na="btn_1",t="btn",
+},[3]={ar={h=88,w=124,x=-33,y=-85,
+},fm={[1]={[1]={img="world_btn_tiaoguo.png",m={[1]=54,[2]=-51,[3]=1,[4]=1,[5]=180,[6]=180,},na="instance_1",t="image",
+},[2]={img="global_bg_alpha.png",m={[1]=-32.75,[2]=2.7,[3]=30.993,[4]=22.004,[5]=0,[6]=0,},na="instance_1",t="image",
+},},},m={[1]=-28.7,[2]=-178.7,[3]=1,[4]=1,[5]=0,[6]=0,},na="btn_jump",t="btn",
+},[4]={co={color=16777215,fontName="gameFont1",fontSize=25,text="仙灵岛初见",
+},h=33,m={[1]=-636.5,[2]=93.05,[3]=1,[4]=1,[5]=0,[6]=0,},na="txt_raidTitle1",t="txt",w=900,
+},},cl="UI_world_new_jump",na="UI_world_new_jump",
+}
+ return UI_world_new_jump

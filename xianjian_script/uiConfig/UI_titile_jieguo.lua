@@ -1,0 +1,17 @@
+local UI_titile_jieguo={ch={[1]={ch={[1]={img="guild_bg_shengji.png",m={[1]=0,[2]=0,[3]=1,[4]=1,[5]=0,[6]=0,},na="instance_1",t="image",
+},},m={[1]=0,[2]=-142.6,[3]=1,[4]=1,[5]=0,[6]=0,},na="panel_sp",t="panel",
+},[2]={h=100,m={[1]=575,[2]=-111,[3]=1,[4]=1,[5]=0,[6]=0,},na="ctn_efbg",t="ctn",w=100,
+},[3]={ch={[1]={h=43,m={[1]=0,[2]=0,[3]=1,[4]=1,[5]=0,[6]=0,},na="ctn_name",t="ctn",w=194,
+},[2]={fm={[1]={[1]={co={color=16762186,fontName="gameFont1",outLine=10573568,text="称号附加的属性加成可叠加",
+},h=40,m={[1]=0,[2]=0,[3]=1,[4]=1,[5]=0,[6]=0,},na="txt_1",t="txt",w=349,
+},},[2]={[1]={co={color=16762186,fontName="gameFont1",outLine=10573568,text="限时称号有效时限为24小时",
+},h=40,m={[1]=0,[2]=0,[3]=1,[4]=1,[5]=0,[6]=0,},na="rich_1",t="rich",w=349,
+},},},h=40,m={[1]=-177,[2]=-193.05,[3]=1,[4]=1,[5]=0,[6]=0,},na="mc_1",t="mc",w=349,
+},[3]={co={align="left",color=15973191,fontName="gameFont1",fontSize=22,text="攻击",
+},h=40,m={[1]=-146,[2]=-145.9,[3]=1,[4]=1,[5]=0,[6]=0,},na="rich_1",t="rich",w=166,
+},[4]={co={align="left",color=15973191,fontName="gameFont1",fontSize=22,text="攻击",
+},h=40,m={[1]=93.95,[2]=-145.9,[3]=1,[4]=1,[5]=0,[6]=0,},na="rich_2",t="rich",w=166,
+},},m={[1]=575,[2]=-342.2,[3]=1,[4]=1,[5]=0,[6]=0,},na="panel_1",t="panel",
+},},cl="UI_titile_jieguo",na="UI_titile_jieguo",
+}
+ return UI_titile_jieguo

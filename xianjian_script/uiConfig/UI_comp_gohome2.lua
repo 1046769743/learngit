@@ -1,0 +1,16 @@
+local UI_comp_gohome2={ch={[1]={ar={h=71,w=61,x=-5,y=-66,
+},fm={[1]={[1]={img="partner_btn_liaotian.png",m={[1]=1,[2]=-1,[3]=1,[4]=1,[5]=0,[6]=0,},na="instance_1",t="image",
+},[2]={img="global_bg_alpha.png",m={[1]=-5.35,[2]=-1.6,[3]=15.248,[4]=16,[5]=0,[6]=0,},na="instance_1",t="image",
+},[3]={ch={[1]={img="global_img_xiaohong.png",m={[1]=0,[2]=0,[3]=1,[4]=1,[5]=0,[6]=0,},na="instance_1",t="image",
+},},m={[1]=27,[2]=5,[3]=1,[4]=1,[5]=0,[6]=0,},na="panel_red",t="panel",
+},},},m={[1]=891,[2]=-1,[3]=1,[4]=1,[5]=0,[6]=0,},na="btn_topchat",t="btn",
+},[2]={ar={h=69,w=64,x=-10,y=-64,
+},fm={[1]={[1]={img="partner_btn_mubiao.png",m={[1]=1,[2]=-1,[3]=1,[4]=1,[5]=0,[6]=0,},na="instance_1",t="image",
+},[2]={img="global_bg_alpha.png",m={[1]=-9.85,[2]=0,[3]=15.248,[4]=16,[5]=0,[6]=0,},na="instance_1",t="image",
+},[3]={ch={[1]={img="global_img_xiaohong.png",m={[1]=0,[2]=0,[3]=1,[4]=1,[5]=0,[6]=0,},na="instance_1",t="image",
+},},m={[1]=27,[2]=5,[3]=1,[4]=1,[5]=0,[6]=0,},na="panel_red",t="panel",
+},},},m={[1]=963,[2]=-1,[3]=1,[4]=1,[5]=0,[6]=0,},na="btn_topmubiao",t="btn",
+},[3]={img="global_bg_alpha.png",m={[1]=0,[2]=0,[3]=1,[4]=1,[5]=0,[6]=0,},na="instance_1",t="image",
+},},cl="UI_comp_gohome2",na="UI_comp_gohome2",
+}
+ return UI_comp_gohome2

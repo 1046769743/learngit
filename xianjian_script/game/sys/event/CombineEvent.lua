@@ -1,0 +1,20 @@
+--region *.lua
+--Date
+--此文件由[BabeLua]插件自动生成
+
+local CombineEvent = {}
+
+
+CombineEvent.TREASURE_COMBINE_UPDATE_LIST = "TREASURE_COMBINE_UPDATE_LIST"
+
+CombineEvent.TREASURE_COMBINE_TIP_DATA = "TREASURE_COMBINE_UPDATE_TIPINFO"
+
+CombineEvent.TREASURE_COMBINE_UPDATE_SIGN_DATA = "TREASURE_COMBINE_UPDATE_SIGN_DATA"
+ 
+CombineEvent.CHANGE_SELECT = "CombineEvent.CHANGE_SELECT"
+
+CombineEvent.OPERATION_STATE_CHANGE = "CombineEvent_OPERATION_STATE_CHANGE"
+
+return CombineEvent 
+
+--endregion

@@ -1,0 +1,16 @@
+local UI_comp_quest_info={ch={[1]={ch={[1]={img="global_bg_mubiaodi.png",m={[1]=0,[2]=0,[3]=1,[4]=1,[5]=0,[6]=0,},na="instance_1",t="image",
+},[2]={co={color=7687969,fontName="systemFont",fontSize=18,text="我就看看能不能放下十个字",
+},h=40,m={[1]=46.95,[2]=-7.55,[3]=1,[4]=1,[5]=0,[6]=0,},na="rich_1",t="rich",w=290,
+},[3]={ar={h=40,w=38,x=0,y=-40,
+},fm={[1]={[1]={img="global_img_smallbox.png",m={[1]=0,[2]=0,[3]=0.6,[4]=0.6,[5]=0,[6]=0,},na="instance_1",t="image",
+},},},m={[1]=9.3,[2]=-6.45,[3]=1,[4]=1,[5]=0,[6]=0,},na="btn_1",t="btn",
+},},m={[1]=183.9,[2]=-110.75,[3]=1,[4]=1,[5]=0,[6]=0,},na="panel_reward",t="panel",
+},[2]={ch={[1]={img="global_bg_mubiaodi.png",m={[1]=0,[2]=0,[3]=1,[4]=1,[5]=0,[6]=0,},na="instance_1",t="image",
+},[2]={img="global_img_taskba.png",m={[1]=3.15,[2]=-3.35,[3]=0.8,[4]=0.8,[5]=0,[6]=0,},na="instance_1",t="image",
+},[3]={co={color=7687969,fontName="systemFont",fontSize=18,text="我就看看能不能放下十个字",
+},h=40,m={[1]=46.95,[2]=-6.55,[3]=1,[4]=1,[5]=0,[6]=0,},na="rich_1",t="rich",w=290,
+},},m={[1]=183.95,[2]=-172.75,[3]=1,[4]=1,[5]=0,[6]=0,},na="panel_not",t="panel",
+},[3]={h=78,m={[1]=-1.05,[2]=1,[3]=1,[4]=1,[5]=0,[6]=0,},na="ctn_1",t="ctn",w=78,
+},},cl="UI_comp_quest_info",na="UI_comp_quest_info",
+}
+ return UI_comp_quest_info

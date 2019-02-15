@@ -1,0 +1,17 @@
+local UI_lottery_yulan_pantner={ch={[1]={ch={[1]={an={x=0,y=1,
+},h=123,img="partner_bg_diban.png",m={[1]=0,[2]=0,[3]=1,[4]=1,[5]=0,[6]=0,},na="scale9_1",s9={h=62,w=494,x=247,y=31,
+},t="scale9",w=987,
+},[2]={co={scrollType="horizontal",
+},h=111.85,m={[1]=78.65,[2]=-11.15,[3]=1,[4]=1,[5]=0,[6]=0,},na="scroll_1",t="scroll",w=823.85,
+},[3]={ch={[1]={cl="UI_comp_partner",m={[1]=11.7,[2]=-7.45,[3]=1,[4]=1,[5]=0,[6]=0,},na="UI_1",t="UI",
+},[2]={ch={[1]={img="global_img_xuanzhong.png",m={[1]=2.5,[2]=-0.75,[3]=1,[4]=1,[5]=0,[6]=0,},na="instance_1",t="image",
+},[2]={img="global_img_xuanzhong.png",m={[1]=2.5,[2]=-121.25,[3]=1,[4]=1,[5]=180,[6]=0,},na="instance_1",t="image",
+},[3]={img="global_img_xuanzhong.png",m={[1]=127.5,[2]=-0.75,[3]=1,[4]=1,[5]=0,[6]=180,},na="instance_1",t="image",
+},[4]={img="global_img_xuanzhong.png",m={[1]=127.5,[2]=-121.25,[3]=1,[4]=1,[5]=180,[6]=180,},na="instance_1",t="image",
+},},m={[1]=0.3,[2]=0.75,[3]=1,[4]=1,[5]=0,[6]=0,},na="panel_1",t="panel",
+},},m={[1]=84.7,[2]=-6.45,[3]=1,[4]=1,[5]=0,[6]=0,},na="panel_1",t="panel",
+},},m={[1]=92.55,[2]=-517,[3]=1,[4]=1,[5]=0,[6]=0,},na="panel_2",t="panel",
+},[2]={img="global_bg_alpha.png",m={[1]=0,[2]=0,[3]=1,[4]=1,[5]=0,[6]=0,},na="instance_1",t="image",
+},},cl="UI_lottery_yulan_pantner",na="UI_lottery_yulan_pantner",
+}
+ return UI_lottery_yulan_pantner

@@ -1,0 +1,15 @@
+local UI_talk_speak={ch={[1]={ch={[1]={img="chat_bg_yuyindi.png",m={[1]=-119.5,[2]=119.5,[3]=1,[4]=1,[5]=0,[6]=0,},na="instance_1",t="image",
+},[2]={ch={[1]={img="chat_progress_yuyinbiaozhi.png",m={[1]=4,[2]=-4,[3]=1,[4]=1,[5]=0,[6]=0,},na="instance_1",t="image",
+},[2]={img="chat_progress_jindudi.png",m={[1]=0,[2]=0,[3]=1,[4]=1,[5]=0,[6]=0,},na="instance_1",t="image",
+},[3]={an={x=0,y=1,
+},img="chat_progress_jindu.png",m={[1]=0,[2]=0,[3]=1,[4]=1,[5]=0,[6]=0,},na="progress_1",t="progress",
+},},m={[1]=-61,[2]=61,[3]=1,[4]=1,[5]=0,[6]=0,},na="panel_jindu",t="panel",
+},[3]={co={color=8214076,fontName="gameFont1",text="开始讲话",
+},h=40,m={[1]=-60.65,[2]=106.15,[3]=1,[4]=1,[5]=0,[6]=0,},na="txt_1",t="txt",w=120,
+},[4]={co={color=12553564,fontName="gameFont1",fontSize=22,text="手指滑动，取消发送",
+},h=40,m={[1]=-113.65,[2]=-58,[3]=1,[4]=1,[5]=0,[6]=0,},na="txt_2",t="txt",w=228,
+},[5]={h=122,m={[1]=0,[2]=0,[3]=1,[4]=1,[5]=0,[6]=0,},na="ctn_kai",t="ctn",w=122,
+},},m={[1]=568,[2]=-320,[3]=1,[4]=1,[5]=0,[6]=0,},na="panel_1",t="panel",
+},},cl="UI_talk_speak",na="UI_talk_speak",
+}
+ return UI_talk_speak

@@ -1,0 +1,21 @@
+local UI_trial_SaoDangNew={ch={[1]={cl="UI_comp_tc",m={[1]=0,[2]=0,[3]=1,[4]=1,[5]=0,[6]=0,},na="UI_1",t="UI",
+},[2]={co={
+},h=371,m={[1]=346,[2]=-119,[3]=1,[4]=1,[5]=0,[6]=0,},na="scroll_1",t="scroll",w=437,
+},[3]={ch={[1]={an={x=0,y=1,
+},h=32,img="global_bg_tuijian.png",m={[1]=374,[2]=0,[3]=1,[4]=1,[5]=180,[6]=180,},na="scale9_biaoti",s9={h=16,w=31,x=139,y=8,
+},t="scale9",w=340,
+},[2]={an={x=0,y=1,
+},h=105,img="global_bg_chendi2.png",m={[1]=0,[2]=0,[3]=1,[4]=1,[5]=0,[6]=0,},na="scale9_1",s9={h=15,w=15,x=14,y=13,
+},t="scale9",w=414,
+},[3]={img="world_img_jinsehuawen.png",m={[1]=276,[2]=-63,[3]=1,[4]=1,[5]=0,[6]=0,},na="instance_1",t="image",
+},[4]={cl="UI_comp_goodsItem_mc",m={[1]=10.5,[2]=-18.3,[3]=0.8,[4]=0.8,[5]=0,[6]=0,},na="UI_1",t="UI",
+},[5]={cl="UI_comp_goodsItem_mc",m={[1]=91.5,[2]=-18.3,[3]=0.8,[4]=0.8,[5]=0,[6]=0,},na="UI_2",t="UI",
+},[6]={cl="UI_comp_goodsItem_mc",m={[1]=172.5,[2]=-18.3,[3]=0.8,[4]=0.8,[5]=0,[6]=0,},na="UI_3",t="UI",
+},[7]={cl="UI_comp_goodsItem_mc",m={[1]=253.5,[2]=-18.3,[3]=0.8,[4]=0.8,[5]=0,[6]=0,},na="UI_4",t="UI",
+},[8]={cl="UI_comp_goodsItem_mc",m={[1]=334.5,[2]=-18.3,[3]=0.8,[4]=0.8,[5]=0,[6]=0,},na="UI_5",t="UI",
+},[9]={co={color=8668174,fontName="systemFont",fontSize=20,text="第1次",
+},h=40,m={[1]=155.5,[2]=34,[3]=1,[4]=1,[5]=0,[6]=0,},na="txt_1",t="txt",w=100,
+},},m={[1]=354,[2]=-154,[3]=1,[4]=1,[5]=0,[6]=0,},na="panel_1",t="panel",
+},},cl="UI_trial_SaoDangNew",na="UI_trial_SaoDangNew",
+}
+ return UI_trial_SaoDangNew

@@ -1,0 +1,17 @@
+local UI_activity_tomorrow_7tian={ch={[1]={ar={h=102,w=118,x=-46,y=-98,
+},fm={[1]={[1]={img="activity_btn_mrdlguanbi.png",m={[1]=0,[2]=0,[3]=1,[4]=1,[5]=0,[6]=0,},na="instance_1",t="image",
+},[2]={img="global_bg_alpha.png",m={[1]=-46.4,[2]=4,[3]=29.496,[4]=25.492,[5]=0,[6]=0,},na="instance_1",t="image",
+},},},m={[1]=1090,[2]=-1,[3]=1,[4]=1,[5]=0,[6]=0,},na="btn_close",t="btn",
+},[2]={fm={[1]={[1]={img="activity_txt_1.png",m={[1]=5,[2]=-33,[3]=1,[4]=1,[5]=0,[6]=0,},na="instance_1",t="image",
+},},[2]={[1]={img="activity_txt_2.png",m={[1]=7,[2]=-16.5,[3]=1,[4]=1,[5]=0,[6]=0,},na="instance_1",t="image",
+},},[3]={[1]={img="activity_txt_3.png",m={[1]=6.5,[2]=-6,[3]=1,[4]=1,[5]=0,[6]=0,},na="instance_1",t="image",
+},},[4]={[1]={img="activity_txt_4.png",m={[1]=4.5,[2]=-15,[3]=1,[4]=1,[5]=0,[6]=0,},na="instance_1",t="image",
+},},[5]={[1]={img="activity_txt_5.png",m={[1]=0,[2]=0,[3]=1,[4]=1,[5]=0,[6]=0,},na="instance_1",t="image",
+},},[6]={[1]={img="activity_txt_6.png",m={[1]=9,[2]=-3.5,[3]=1,[4]=1,[5]=0,[6]=0,},na="instance_1",t="image",
+},},[7]={[1]={img="activity_txt_7.png",m={[1]=3,[2]=-10,[3]=1,[4]=1,[5]=0,[6]=0,},na="instance_1",t="image",
+},},},h=29,m={[1]=323.6,[2]=-73.95,[3]=1,[4]=1,[5]=0,[6]=0,},na="mc_1",t="mc",w=95,
+},[3]={ch={[1]={img="activity_txt_txj.png",m={[1]=0,[2]=0,[3]=1,[4]=1,[5]=0,[6]=0,},na="instance_1",t="image",
+},},m={[1]=167.95,[2]=-196.95,[3]=1,[4]=1,[5]=0,[6]=0,},na="panel_txj",t="panel",
+},},cl="UI_activity_tomorrow_7tian",na="UI_activity_tomorrow_7tian",
+}
+ return UI_activity_tomorrow_7tian

@@ -1,0 +1,15 @@
+local UI_info_cdkey={ch={[1]={cl="UI_comp_tc2",m={[1]=0,[2]=0,[3]=1,[4]=1,[5]=0,[6]=0,},na="UI_1",t="UI",
+},[2]={an={x=0,y=1,
+},h=48.85,img="global_bg_chendi2.png",m={[1]=380.45,[2]=-258.8,[3]=1,[4]=1,[5]=0,[6]=0,},na="scale9_2",s9={h=22,w=24,x=12,y=11,
+},t="scale9",w=373,
+},[3]={co={color=8736545,defColor=13421772,defStr="请输入兑换码",fontSize=28,isBox=false,maxLength=9,passwordEnable=false,
+},h=40,m={[1]=387.3,[2]=-266.05,[3]=1,[4]=1,[5]=0,[6]=0,},na="input_cdkey",t="input",w=352,
+},[4]={ar={h=94,w=169,x=-9,y=-94,
+},fm={[1]={[1]={img="global_bg_alpha.png",m={[1]=-8.95,[2]=0,[3]=42.251,[4]=23.498,[5]=0,[6]=0,},na="instance_1",t="image",
+},[2]={img="global_btn_hongda.png",m={[1]=2.4,[2]=-3.2,[3]=0.768,[4]=0.771,[5]=0,[6]=0,},na="instance_1",t="image",
+},[3]={co={color=16775402,fontName="gameFont1",fontSize=30,outLine=13190675,outLineSize=2,text="确 定",
+},h=50,m={[1]=16,[2]=-16,[3]=1,[4]=1,[5]=0,[6]=0,},na="txt_1",t="txt",w=120,
+},},},m={[1]=493.2,[2]=-362.2,[3]=1,[4]=1,[5]=0,[6]=0,},na="btn_confirm",t="btn",
+},},cl="UI_info_cdkey",na="UI_info_cdkey",
+}
+ return UI_info_cdkey

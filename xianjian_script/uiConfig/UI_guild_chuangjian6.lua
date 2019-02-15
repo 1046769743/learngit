@@ -1,0 +1,17 @@
+local UI_guild_chuangjian6={ch={[1]={co={color=10708049,fontName="gameFont1",fontSize=22,text="请输入6-10位群号码",
+},h=40,m={[1]=283.3,[2]=-63.35,[3]=1,[4]=1,[5]=0,[6]=0,},na="txt_1",t="txt",w=250,
+},[2]={img="guild_bg_shurudi.png",m={[1]=224.3,[2]=-137.3,[3]=1,[4]=1,[5]=0,[6]=0,},na="instance_1",t="image",
+},[3]={co={color=16777215,defColor=16777215,defStr="",fontSize=32,isBox=false,maxLength=12,passwordEnable=false,
+},h=40,m={[1]=229.35,[2]=-139.3,[3]=1,[4]=1,[5]=0,[6]=0,},na="input_1",t="input",w=370,
+},[4]={co={color=10708049,fontName="gameFont1",fontSize=22,text="创建仙盟后，可随时更改群号",
+},h=40,m={[1]=267.3,[2]=-216.3,[3]=1,[4]=1,[5]=0,[6]=0,},na="txt_2",t="txt",w=300,
+},[5]={ar={h=94,w=169,x=-14,y=-80,
+},fm={[1]={[1]={img="global_bg_alpha.png",m={[1]=-14,[2]=13.85,[3]=42.24,[4]=23.504,[5]=0,[6]=0,},na="instance_1",t="image",
+},[2]={img="global_btn_hongda.png",m={[1]=0,[2]=0,[3]=0.768,[4]=0.771,[5]=0,[6]=0,},na="instance_1",t="image",
+},[3]={co={color=16772815,fontName="gameFont1",fontSize=30,outLine=13190675,outLineSize=1,text="下一步",
+},h=50,m={[1]=0,[2]=-13,[3]=1,[4]=1,[5]=0,[6]=0,},na="txt_1",t="txt",w=145,
+},},},m={[1]=339.1,[2]=-305.3,[3]=1,[4]=1,[5]=0,[6]=0,},na="btn_1",t="btn",
+},[6]={img="guild_img_qq.png",m={[1]=273.5,[2]=-68.8,[3]=1,[4]=1,[5]=0,[6]=0,},na="instance_1",t="image",
+},},cl="UI_guild_chuangjian6",na="UI_guild_chuangjian6",
+}
+ return UI_guild_chuangjian6

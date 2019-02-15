@@ -1,0 +1,15 @@
+local UI_info_setting_slider={ch={[1]={ch={[1]={fm={[1]={[1]={an={x=0,y=1,
+},h=31,img="global_bg_kaiqidi.png",m={[1]=0,[2]=0,[3]=1,[4]=1,[5]=0,[6]=0,},na="scale9_1",s9={h=17,w=22,x=30,y=9,
+},t="scale9",w=111.95,
+},},[2]={[1]={an={x=0,y=1,
+},h=31,img="global_bg_guanbidi.png",m={[1]=0,[2]=0,[3]=1,[4]=1,[5]=0,[6]=0,},na="scale9_1",s9={h=17,w=22,x=30,y=9,
+},t="scale9",w=111.95,
+},},},h=30,m={[1]=0,[2]=0,[3]=0.893,[4]=0.968,[5]=0,[6]=0,},na="mc_2",t="mc",w=100,
+},[2]={fm={[1]={[1]={img="global_btn_kaqidou.png",m={[1]=5.5,[2]=-6,[3]=1,[4]=1,[5]=0,[6]=0,},na="instance_1",t="image",
+},[2]={img="global_bg_alpha.png",m={[1]=-12.8,[2]=8.55,[3]=22.001,[4]=15.248,[5]=0,[6]=0,},na="instance_1",t="image",
+},},[2]={[1]={img="global_btn_guanbidou.png",m={[1]=0,[2]=0,[3]=1,[4]=1,[5]=0,[6]=0,},na="instance_1",t="image",
+},},},h=61,m={[1]=63.55,[2]=8,[3]=1,[4]=1,[5]=0,[6]=0,},na="mc_1",t="mc",w=88,
+},},m={[1]=0,[2]=0,[3]=0.987,[4]=1,[5]=0,[6]=0,},na="panel_slider",t="panel",
+},},cl="UI_info_setting_slider",na="UI_info_setting_slider",
+}
+ return UI_info_setting_slider

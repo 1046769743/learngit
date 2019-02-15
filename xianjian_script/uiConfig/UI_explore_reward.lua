@@ -1,0 +1,22 @@
+local UI_explore_reward={ch={[1]={cl="UI_comp_tc",m={[1]=0,[2]=0,[3]=1,[4]=1,[5]=0,[6]=0,},na="UI_1",t="UI",
+},[2]={co={
+},h=440,m={[1]=339.3,[2]=-127.95,[3]=1,[4]=1,[5]=0,[6]=0,},na="scroll_1",t="scroll",w=450,
+},[3]={ch={[1]={an={x=0,y=1,
+},h=133.00165107319756,img="global_img_andi.png",m={[1]=0,[2]=-1,[3]=1,[4]=0.88720703125,[5]=0,[6]=0,},na="scale9_3",s9={h=36,w=49,x=60,y=48,
+},t="scale9",w=440,
+},[2]={co={align="left",color=8735006,fontName="gameFont1",fontSize=16,text="精英怪挑战奖励：",
+},h=40,m={[1]=9.35,[2]=-1,[3]=1,[4]=1,[5]=0,[6]=0,},na="txt_2",t="txt",w=242,
+},[3]={co={color=14311706,fontName="gameFont1",fontSize=18,text="23:59:59",
+},h=40,m={[1]=325,[2]=-20.75,[3]=1,[4]=1,[5]=0,[6]=0,},na="txt_1",t="txt",w=100,
+},[4]={co={scrollType="horizontal",
+},h=80,m={[1]=6.05,[2]=-31.75,[3]=1,[4]=1,[5]=0,[6]=0,},na="scroll_1",t="scroll",w=312,
+},[5]={cl="UI_comp_goodsItem_mc",m={[1]=19.6,[2]=-40.45,[3]=0.75,[4]=0.75,[5]=0,[6]=0,},na="UI_1",t="UI",
+},[6]={ar={h=54,w=145,x=-15,y=-54,
+},fm={[1]={[1]={img="global_btn_hongda.png",m={[1]=0,[2]=0,[3]=0.6,[4]=0.6,[5]=0,[6]=0,},na="instance_1",t="image",
+},[2]={co={color=16772815,fontName="gameFont1",outLine=13190675,outLineSize=1,text="领 取",
+},h=50,m={[1]=-15,[2]=-4.4,[3]=1,[4]=1,[5]=0,[6]=0,},na="txt_1",t="txt",w=145,
+},},},m={[1]=316.85,[2]=-53.35,[3]=1,[4]=1,[5]=0,[6]=0,},na="btn_1",t="btn",
+},},m={[1]=346,[2]=-133.6,[3]=1,[4]=1,[5]=0,[6]=0,},na="panel_1",t="panel",
+},},cl="UI_explore_reward",na="UI_explore_reward",
+}
+ return UI_explore_reward
