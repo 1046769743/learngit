@@ -1,0 +1,319 @@
+{
+  "level_001": {
+    "a": 403181,
+    "b": "YGDLLA",
+    "c": 8,
+    "d": 7,
+    "e": [
+      "3,0,V,ALL",
+      "0,5,H,DAY",
+      "5,1,V,GAL",
+      "5,3,H,LAD",
+      "3,1,H,LAG",
+      "4,4,V,LAY",
+      "4,5,H,ALLY",
+      "0,2,V,GLAD",
+      "2,2,V,LADY",
+      "0,2,H,GALL",
+      "7,0,V,GLADLY"
+    ]
+  },
+  "level_002": {
+    "a": 403187,
+    "b": "YSNLUG",
+    "c": 10,
+    "d": 8,
+    "e": [
+      "7,4,H,GUN",
+      "5,1,V,GUY",
+      "7,2,V,LUG",
+      "6,5,V,SLY",
+      "1,1,V,SUN",
+      "6,6,H,LUNG",
+      "1,5,HB,SLUG",
+      "9,3,V,SNUG",
+      "3,0,V,SUNG",
+      "5,2,H,UGLY",
+      "1,1,H,SLUNG",
+      "0,3,H,SNUGLY"
+    ]
+  },
+  "level_003": {
+    "a": 403193,
+    "b": "EOPOCD",
+    "c": 11,
+    "d": 9,
+    "e": [
+      "4,0,V,COD",
+      "0,4,V,COP",
+      "2,6,V,DOC",
+      "0,6,H,POD",
+      "5,6,V,DOE",
+      "4,6,H,ODE",
+      "2,8,H,CODE",
+      "2,1,V,COOP",
+      "6,3,V,COPE",
+      "9,0,V,DOPE",
+      "1,2,H,COED",
+      "0,4,H,COPED",
+      "6,3,H,COOED",
+      "4,0,H,COOPED"
+    ]
+  },
+  "level_004": {
+    "a": 403219,
+    "b": "GOWLNRY",
+    "c": 12,
+    "d": 12,
+    "e": [
+      "9,1,H,LOG",
+      "9,1,V,LOW",
+      "7,3,H,NOW",
+      "9,5,H,OWL",
+      "5,1,H,ROW",
+      "7,1,V,WON",
+      "5,0,V,WRY",
+      "6,5,V,YON",
+      "2,0,H,GLOW",
+      "7,8,H,GOWN",
+      "2,0,V,GROW",
+      "4,2,V,LONG",
+      "2,2,H,ONLY",
+      "1,9,H,WORN",
+      "7,8,V,GORY",
+      "2,7,V,GLORY",
+      "11,1,V,GROWL",
+      "2,7,H,GROWN",
+      "10,5,V,WRONG",
+      "0,5,H,WRONGLY"
+    ]
+  },
+  "level_005": {
+    "a": 403196,
+    "b": "DULTUFI",
+    "c": 7,
+    "d": 6,
+    "e": [
+      "0,0,H,FIT",
+      "4,0,HB,LIT",
+      "2,0,V,TIL",
+      "4,2,V,LIFT",
+      "0,0,V,FLUID",
+      "0,4,H,DUTIFUL"
+    ]
+  },
+  "level_006": {
+    "a": 403216,
+    "b": "SARLIO",
+    "c": 11,
+    "d": 11,
+    "e": [
+      "3,4,V,AIR",
+      "1,6,H,OAR",
+      "2,2,V,OIL",
+      "3,8,V,SIR",
+      "2,6,V,AIL",
+      "1,8,H,ALSO",
+      "6,0,HB,LIAR",
+      "2,2,H,ORAL",
+      "3,10,H,RAIL",
+      "6,7,V,SAIL",
+      "6,7,H,SOAR",
+      "7,4,H,SOIL",
+      "7,4,V,SILO",
+      "4,1,V,LAIR",
+      "0,4,H,SOLAR",
+      "9,2,V,SAILOR"
+    ]
+  },
+  "level_007": {
+    "a": 403190,
+    "b": "NGGNOIO",
+    "c": 9,
+    "d": 9,
+    "e": [
+      "2,0,V,GIG",
+      "6,0,H,GIN",
+      "3,4,H,INN",
+      "3,4,V,ION",
+      "2,0,H,GOO",
+      "8,0,V,NOON",
+      "0,6,H,GOON",
+      "6,0,V,GOGO",
+      "1,5,V,GONG",
+      "1,8,H,GOING",
+      "4,0,V,ONION",
+      "0,2,H,ONGOING"
+    ]
+  },
+  "level_008": {
+    "a": 403178,
+    "b": "ATERTRE",
+    "c": 12,
+    "d": 12,
+    "e": [
+      "8,6,V,ARE",
+      "6,8,V,ART",
+      "6,8,H,ATE",
+      "9,4,H,EAT",
+      "4,10,H,RAT",
+      "7,6,H,TAR",
+      "2,7,V,TEA",
+      "11,4,V,TEE",
+      "4,9,V,ERR",
+      "1,9,H,RARE",
+      "0,7,H,RATE",
+      "9,3,V,REAR",
+      "0,5,V,TART",
+      "0,5,H,TEAR",
+      "3,4,V,TREE",
+      "4,0,V,EATER",
+      "2,2,H,RATER",
+      "3,4,H,TREAT",
+      "6,0,V,TERRA",
+      "0,0,H,RETREAT"
+    ]
+  },
+  "level_009": {
+    "a": 403227,
+    "b": "MMMISOE",
+    "c": 7,
+    "d": 5,
+    "e": [
+      "2,0,V,MOM",
+      "6,0,V,SIM",
+      "0,0,V,MEMO",
+      "2,4,HB,SOME",
+      "0,2,H,MIME",
+      "0,0,H,MOMMIES"
+    ]
+  },
+  "level_010": {
+    "a": 403184,
+    "b": "FROESC",
+    "c": 9,
+    "d": 9,
+    "e": [
+      "5,1,V,CORE",
+      "7,3,V,FOES",
+      "1,0,H,FORE",
+      "4,6,H,ORES",
+      "3,0,V,ROSE",
+      "4,5,V,SORE",
+      "5,3,H,REFS",
+      "1,0,V,FORCE",
+      "0,8,H,SCORE",
+      "0,2,H,FRESCO"
+    ]
+  },
+  "level_011": {
+    "a": 403208,
+    "b": "LRPOTY",
+    "c": 7,
+    "d": 6,
+    "e": [
+      "5,0,V,PLOT",
+      "3,2,H,PLOY",
+      "0,0,H,PORT",
+      "0,3,H,TYPO",
+      "3,2,V,POLY",
+      "0,0,V,PORTLY"
+    ]
+  },
+  "level_012": {
+    "a": 403211,
+    "b": "NEEOLHC",
+    "c": 13,
+    "d": 10,
+    "e": [
+      "10,2,H,CON",
+      "8,1,V,HEN",
+      "1,3,V,ONE",
+      "5,0,V,EEL",
+      "8,1,H,HOE",
+      "0,3,H,CONE",
+      "10,1,V,ECHO",
+      "3,0,H,HEEL",
+      "3,0,V,HOLE",
+      "5,2,H,LONE",
+      "12,1,V,ONCE",
+      "9,4,H,HONE",
+      "5,8,H,CLONE",
+      "9,4,V,HENCE",
+      "5,5,V,LEECH",
+      "1,5,H,ECHELON"
+    ]
+  },
+  "level_013": {
+    "a": 403202,
+    "b": "TOKOOUL",
+    "c": 8,
+    "d": 8,
+    "e": [
+      "0,5,H,LOT",
+      "2,7,H,OUT",
+      "2,5,V,TOO",
+      "4,1,H,LOOK",
+      "6,0,V,TOOK",
+      "0,2,V,TOOL",
+      "2,0,V,LOOT",
+      "4,1,V,LOOKOUT",
+      "0,3,H,OUTLOOK"
+    ]
+  },
+  "level_014": {
+    "a": 403199,
+    "b": "EUKCPAC",
+    "c": 9,
+    "d": 8,
+    "e": [
+      "0,2,V,ACE",
+      "4,0,V,CAP",
+      "6,2,V,CUE",
+      "2,5,V,CUP",
+      "0,3,H,CAKE",
+      "2,5,H,CAPE",
+      "2,0,H,PACE",
+      "4,2,H,PACK",
+      "5,4,H,PEAK",
+      "5,4,V,PECK",
+      "2,0,V,PUCK",
+      "0,7,H,CUPCAKE"
+    ]
+  },
+  "level_015": {
+    "a": 403224,
+    "b": "ZESDIE",
+    "c": 8,
+    "d": 7,
+    "e": [
+      "1,4,V,SEE",
+      "0,5,H,SEED",
+      "3,3,V,SIDE",
+      "4,0,V,SIZE",
+      "3,3,H,SEIZE",
+      "3,1,H,SIZED",
+      "6,0,V,SEIZED"
+    ]
+  },
+  "level_016": {
+    "a": 403205,
+    "b": "CIOPOUS",
+    "c": 10,
+    "d": 10,
+    "e": [
+      "0,8,H,COPS",
+      "7,3,V,CUPS",
+      "5,1,V,OOPS",
+      "5,4,H,SOUP",
+      "3,2,H,COOS",
+      "0,0,H,COUP",
+      "3,0,V,PICS",
+      "0,0,V,CUSP",
+      "3,5,V,OPUS",
+      "1,5,V,SCOOP",
+      "5,8,HB,PIOUS",
+      "1,6,H,COPIOUS"
+    ]
+  }
+}

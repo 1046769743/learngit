@@ -1,0 +1,71 @@
+{
+    "letters": "ASTY", 
+    "words": [
+        {
+            "pointNum": 7, 
+            "word": "STAY", 
+            "def": "continuing or remaining in a place or state", 
+            "point": "7p."
+        }, 
+        {
+            "pointNum": 6, 
+            "word": "AYS", 
+            "def": "", 
+            "point": "6p."
+        }, 
+        {
+            "pointNum": 6, 
+            "word": "SAY", 
+            "def": "the chance to speak", 
+            "point": "6p."
+        }, 
+        {
+            "pointNum": 6, 
+            "word": "STY", 
+            "def": "an infection of the sebaceous gland of the eyelid", 
+            "point": "6p."
+        }, 
+        {
+            "pointNum": 3, 
+            "word": "SAT", 
+            "def": "the seventh and last day of the week", 
+            "point": "3p."
+        }, 
+        {
+            "pointNum": 3, 
+            "word": "TAS", 
+            "def": "a hard grey lustrous metallic element that is highly resistant to corrosion", 
+            "point": "3p."
+        }, 
+        {
+            "pointNum": 5, 
+            "word": "AY", 
+            "def": "academic year .", 
+            "point": "5p."
+        }, 
+        {
+            "pointNum": 5, 
+            "word": "YA", 
+            "def": "yea; yes.", 
+            "point": "5p."
+        }, 
+        {
+            "pointNum": 2, 
+            "word": "AS", 
+            "def": "a very poisonous metallic element that has three allotropic forms", 
+            "point": "2p."
+        }, 
+        {
+            "pointNum": 2, 
+            "word": "AT", 
+            "def": "a highly unstable radioactive element (the heaviest of the halogen series)", 
+            "point": "2p."
+        }, 
+        {
+            "pointNum": 2, 
+            "word": "TA", 
+            "def": "a hard grey lustrous metallic element that is highly resistant to corrosion", 
+            "point": "2p."
+        }
+    ]
+}

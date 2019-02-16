@@ -1,0 +1,245 @@
+{
+  "level_001": {
+    "a": 18421,
+    "b": "KABDE",
+    "c": 7,
+    "d": 7,
+    "e": [
+      "2,4,V,BAD",
+      "0,6,H,BED",
+      "3,1,V,BAKE",
+      "3,1,H,BEAK",
+      "2,4,H,BEAD",
+      "5,0,V,BAKED"
+    ]
+  },
+  "level_002": {
+    "a": 18503,
+    "b": "YBEAB",
+    "c": 6,
+    "d": 6,
+    "e": [
+      "4,0,V,AYE",
+      "3,0,H,BAY",
+      "3,2,V,BYE",
+      "1,2,H,BABE",
+      "1,2,V,BABY",
+      "0,4,H,ABBEY"
+    ]
+  },
+  "level_003": {
+    "a": 18418,
+    "b": "BSLIA",
+    "c": 8,
+    "d": 6,
+    "e": [
+      "7,2,V,ABS",
+      "0,3,H,LAB",
+      "0,0,V,BAIL",
+      "4,4,H,BIAS",
+      "5,2,V,SAIL",
+      "2,0,V,SLAB",
+      "2,2,H,AILS",
+      "0,0,H,BASIL"
+    ]
+  },
+  "level_004": {
+    "a": 18511,
+    "b": "LEINA",
+    "c": 6,
+    "d": 6,
+    "e": [
+      "1,5,H,LIE",
+      "5,1,V,LANE",
+      "0,0,HB,LEAN",
+      "3,2,V,LINE",
+      "1,2,V,NAIL",
+      "1,3,H,ALIEN"
+    ]
+  },
+  "level_005": {
+    "a": 25308,
+    "b": "NBOCA",
+    "c": 5,
+    "d": 5,
+    "e": [
+      "0,4,H,BAN",
+      "2,2,H,CAB",
+      "2,2,V,CAN",
+      "4,0,V,NAB",
+      "0,0,V,BOA",
+      "0,0,H,BACON"
+    ]
+  },
+  "level_006": {
+    "a": 18490,
+    "b": "OIWGN",
+    "c": 7,
+    "d": 7,
+    "e": [
+      "6,4,V,GIN",
+      "2,5,H,ION",
+      "0,4,H,NOW",
+      "0,2,V,OWN",
+      "4,4,H,WIG",
+      "2,4,V,WIN",
+      "3,0,V,WON",
+      "4,2,V,GOWN",
+      "3,0,H,WING",
+      "0,2,H,OWING"
+    ]
+  },
+  "level_007": {
+    "a": 25494,
+    "b": "APHRG",
+    "c": 7,
+    "d": 6,
+    "e": [
+      "6,2,V,GAP",
+      "2,0,HB,PAR",
+      "4,4,H,RAP",
+      "0,0,V,HAG",
+      "4,2,V,HARP",
+      "0,2,H,GRAPH"
+    ]
+  },
+  "level_008": {
+    "a": 25496,
+    "b": "ILSLK",
+    "c": 6,
+    "d": 5,
+    "e": [
+      "3,2,V,ILL",
+      "1,2,V,SKI",
+      "0,4,H,KILL",
+      "5,0,V,SILK",
+      "1,2,H,SKILL"
+    ]
+  },
+  "level_009": {
+    "a": 25497,
+    "b": "KHAYS",
+    "c": 8,
+    "d": 6,
+    "e": [
+      "3,3,V,ASK",
+      "1,4,H,HAS",
+      "0,2,H,HAY",
+      "2,0,V,SAY",
+      "5,2,V,SHY",
+      "5,2,H,SKY",
+      "6,0,V,YAK",
+      "1,2,V,ASHY",
+      "2,0,H,SHAKY",
+      "3,3,H,ASH"
+    ]
+  },
+  "level_010": {
+    "a": 25501,
+    "b": "OLEGD",
+    "c": 7,
+    "d": 7,
+    "e": [
+      "6,0,V,DOG",
+      "6,4,V,EGO",
+      "4,0,V,GEL",
+      "4,0,H,GOD",
+      "0,1,V,LEG",
+      "4,2,H,LOG",
+      "5,2,V,OLD",
+      "1,6,HB,GOLD",
+      "3,4,H,LODE",
+      "0,1,H,LODGE"
+    ]
+  },
+  "level_011": {
+    "a": 25326,
+    "b": "GRIAC",
+    "c": 5,
+    "d": 5,
+    "e": [
+      "0,0,H,AIR",
+      "0,4,HB,ARC",
+      "2,0,V,RAG",
+      "4,2,V,RIG",
+      "0,2,H,CIGAR"
+    ]
+  },
+  "level_012": {
+    "a": 25503,
+    "b": "EUTPS",
+    "c": 8,
+    "d": 6,
+    "e": [
+      "5,2,H,PET",
+      "7,0,V,PUT",
+      "1,0,H,UPS",
+      "3,3,H,USE",
+      "5,2,V,PEST",
+      "0,4,H,STEP",
+      "3,0,V,SETUP",
+      "1,0,V,UPSET"
+    ]
+  },
+  "level_013": {
+    "a": 25506,
+    "b": "KEEST",
+    "c": 6,
+    "d": 5,
+    "e": [
+      "1,2,V,SEE",
+      "4,0,V,TEE",
+      "3,2,V,EEK",
+      "0,4,H,SEEK",
+      "1,2,H,SKEET"
+    ]
+  },
+  "level_014": {
+    "a": 25509,
+    "b": "TSUOL",
+    "c": 7,
+    "d": 6,
+    "e": [
+      "0,4,H,LOT",
+      "4,3,V,OUT",
+      "2,1,V,LOST",
+      "5,0,V,LUST",
+      "2,3,H,SLOT",
+      "0,1,V,SOUL",
+      "2,1,H,LOTUS"
+    ]
+  },
+  "level_015": {
+    "a": 18442,
+    "b": "BLAME",
+    "c": 9,
+    "d": 8,
+    "e": [
+      "3,0,H,ALE",
+      "5,0,V,ELM",
+      "0,5,V,BAM",
+      "3,0,V,ABLE",
+      "5,4,H,BALM",
+      "0,5,H,BEAM",
+      "3,2,H,LAMB",
+      "0,3,H,LAME",
+      "1,2,V,MALE",
+      "8,4,V,MEAL",
+      "6,2,V,BLAME"
+    ]
+  },
+  "level_016": {
+    "a": 25513,
+    "b": "CIEPS",
+    "c": 6,
+    "d": 6,
+    "e": [
+      "4,0,V,PIE",
+      "2,0,H,SIP",
+      "0,3,H,PIC",
+      "0,2,V,EPIC",
+      "2,2,H,ICES",
+      "2,0,V,SPICE"
+    ]
+  }
+}
