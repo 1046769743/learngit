@@ -1,0 +1,9 @@
+{
+  "1": {"ID":1, "UserDollar":35, "LevelFinishReward":[35], "WordChestReward":[0], "ADBulbAmount":2, "H5Reward":[0], "RedScratchReward":[0], "LuckySpinReward":["2.00;2.60;2","10;1"], "GoldenSpinReward":["2.00;2.60;2","10;3"], "PigReward":[20,30,2]},
+  "2": {"ID":2, "UserDollar":135, "LevelFinishReward":[2.00,2.60,2], "WordChestReward":[12], "ADBulbAmount":2, "H5Reward":[0], "RedScratchReward":[2.00,2.60,2], "LuckySpinReward":["2.00;2.60;2","10;1"], "GoldenSpinReward":["2.00;2.60;2","10;3"], "PigReward":[20,30,2]},
+  "3": {"ID":3, "UserDollar":435, "LevelFinishReward":[3.20,3.80,2], "WordChestReward":[15], "ADBulbAmount":2, "H5Reward":[0], "RedScratchReward":[2.00,2.60,2], "LuckySpinReward":["2.00;2.60;2","10;1"], "GoldenSpinReward":["2.00;2.60;2","10;3"], "PigReward":[20,30,2]},
+  "4": {"ID":4, "UserDollar":1035, "LevelFinishReward":[4.30,4.80,2], "WordChestReward":[20], "ADBulbAmount":2, "H5Reward":[0], "RedScratchReward":[2.00,2.60,2], "LuckySpinReward":["2.00;2.60;2","10;1"], "GoldenSpinReward":["2.00;2.60;2","10;3"], "PigReward":[20,30,2]},
+  "5": {"ID":5, "UserDollar":2035, "LevelFinishReward":[4.60,5.00,2], "WordChestReward":[20], "ADBulbAmount":2, "H5Reward":[0], "RedScratchReward":[2.00,2.60,2], "LuckySpinReward":["2.00;2.60;2","10;1"], "GoldenSpinReward":["2.00;2.60;2","10;3"], "PigReward":[20,30,2]},
+  "6": {"ID":6, "UserDollar":4035, "LevelFinishReward":[6.20,7.00,2], "WordChestReward":[25], "ADBulbAmount":2, "H5Reward":[0], "RedScratchReward":[2.00,2.60,2], "LuckySpinReward":["2.00;2.60;2","10;1"], "GoldenSpinReward":["2.00;2.60;2","10;3"], "PigReward":[20,30,2]},
+  "7": {"ID":7, "UserDollar":9999999, "LevelFinishReward":[7.00,8.00,2], "WordChestReward":[25], "ADBulbAmount":2, "H5Reward":[0], "RedScratchReward":[2.00,2.60,2], "LuckySpinReward":["2.00;2.60;2","10;1"], "GoldenSpinReward":["2.00;2.60;2","10;3"], "PigReward":[20,30,2]}
+}

@@ -1,0 +1,7 @@
+{
+  "1": {"ID":1, "RewardAdsAmount":0, "Wheel1":[3,5], "Wheel2":[2,5], "Wheel3":[3,1], "Wheel4":[3,2], "Wheel5":[1], "Wheel6":[3,1], "Wheel7":[1], "Wheel8":[3,2], "RewardWeight":[100,0,0,0,0,0,0,0]},
+  "2": {"ID":2, "RewardAdsAmount":15, "Wheel1":[3,5], "Wheel2":[2,5], "Wheel3":[3,1], "Wheel4":[3,2], "Wheel5":[1], "Wheel6":[3,1], "Wheel7":[1], "Wheel8":[3,2], "RewardWeight":[30,15,5,15,5,5,5,20]},
+  "3": {"ID":3, "RewardAdsAmount":50, "Wheel1":[3,5], "Wheel2":[2,5], "Wheel3":[3,1], "Wheel4":[3,2], "Wheel5":[1], "Wheel6":[3,1], "Wheel7":[1], "Wheel8":[3,2], "RewardWeight":[10,20,15,10,10,15,10,10]},
+  "4": {"ID":4, "RewardAdsAmount":100, "Wheel1":[3,5], "Wheel2":[2,5], "Wheel3":[3,1], "Wheel4":[3,2], "Wheel5":[1], "Wheel6":[3,1], "Wheel7":[1], "Wheel8":[3,2], "RewardWeight":[1,30,5,2,30,5,25,2]},
+  "5": {"ID":5, "RewardAdsAmount":9999999, "Wheel1":[3,5], "Wheel2":[2,5], "Wheel3":[3,1], "Wheel4":[3,2], "Wheel5":[1], "Wheel6":[3,1], "Wheel7":[1], "Wheel8":[3,2], "RewardWeight":[0,38,1,0,30,1,30,0]}
+}

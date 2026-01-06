@@ -1,0 +1,9 @@
+{
+  "1": {"Date":1, "RewardType":[1], "RewardAmount":[5], "RewardAmountCardLimit":[5]},
+  "2": {"Date":2, "RewardType":[1], "RewardAmount":[5], "RewardAmountCardLimit":[5]},
+  "3": {"Date":3, "RewardType":[1], "RewardAmount":[10], "RewardAmountCardLimit":[10]},
+  "4": {"Date":4, "RewardType":[1], "RewardAmount":[7], "RewardAmountCardLimit":[7]},
+  "5": {"Date":5, "RewardType":[1], "RewardAmount":[7], "RewardAmountCardLimit":[7]},
+  "6": {"Date":6, "RewardType":[1], "RewardAmount":[7], "RewardAmountCardLimit":[7]},
+  "7": {"Date":7, "RewardType":[1,3], "RewardAmount":[20,2], "RewardAmountCardLimit":[20]}
+}

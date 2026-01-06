@@ -1,0 +1,9 @@
+{
+  "1": {"QuestID":1, "QuestType":5, "Goal":10, "QuestLanguageid":62, "HammerAmount":50},
+  "2": {"QuestID":2, "QuestType":5, "Goal":15, "QuestLanguageid":62, "HammerAmount":50},
+  "3": {"QuestID":3, "QuestType":5, "Goal":20, "QuestLanguageid":62, "HammerAmount":50},
+  "4": {"QuestID":4, "QuestType":5, "Goal":30, "QuestLanguageid":62, "HammerAmount":50},
+  "5": {"QuestID":5, "QuestType":6, "Goal":5, "QuestLanguageid":63, "HammerAmount":50},
+  "6": {"QuestID":6, "QuestType":6, "Goal":10, "QuestLanguageid":63, "HammerAmount":50},
+  "7": {"QuestID":7, "QuestType":6, "Goal":15, "QuestLanguageid":63, "HammerAmount":50}
+}
