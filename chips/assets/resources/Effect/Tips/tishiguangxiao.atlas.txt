@@ -1,0 +1,118 @@
+
+tishiguangxiao.png
+size: 1024,512
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+bian_00000
+  rotate: false
+  xy: 2, 274
+  size: 105, 172
+  orig: 120, 180
+  offset: 8, 5
+  index: -1
+glizi_00000
+  rotate: false
+  xy: 211, 281
+  size: 101, 165
+  orig: 120, 180
+  offset: 10, 9
+  index: -1
+glizi_00002
+  rotate: false
+  xy: 171, 5
+  size: 101, 165
+  orig: 120, 180
+  offset: 10, 9
+  index: -1
+glizi_00004
+  rotate: false
+  xy: 443, 179
+  size: 100, 165
+  orig: 120, 180
+  offset: 10, 9
+  index: -1
+glizi_00006
+  rotate: false
+  xy: 109, 279
+  size: 100, 167
+  orig: 120, 180
+  offset: 10, 8
+  index: -1
+glizi_00008
+  rotate: true
+  xy: 105, 172
+  size: 100, 168
+  orig: 120, 180
+  offset: 10, 7
+  index: -1
+glizi_00010
+  rotate: false
+  xy: 274, 4
+  size: 100, 166
+  orig: 120, 180
+  offset: 10, 8
+  index: -1
+glizi_00012
+  rotate: true
+  xy: 275, 179
+  size: 100, 166
+  orig: 120, 180
+  offset: 10, 8
+  index: -1
+glizi_00014
+  rotate: true
+  xy: 314, 346
+  size: 100, 166
+  orig: 120, 180
+  offset: 10, 8
+  index: -1
+glizi_00016
+  rotate: true
+  xy: 482, 346
+  size: 100, 165
+  orig: 120, 180
+  offset: 10, 8
+  index: -1
+glizi_00018
+  rotate: false
+  xy: 477, 12
+  size: 100, 165
+  orig: 120, 180
+  offset: 10, 8
+  index: -1
+glizi_00020
+  rotate: false
+  xy: 545, 180
+  size: 100, 164
+  orig: 120, 180
+  offset: 10, 9
+  index: -1
+glizi_00022
+  rotate: false
+  xy: 579, 13
+  size: 99, 165
+  orig: 120, 180
+  offset: 10, 8
+  index: -1
+glizi_00024
+  rotate: false
+  xy: 376, 10
+  size: 99, 167
+  orig: 120, 180
+  offset: 10, 8
+  index: -1
+glizi_00026
+  rotate: false
+  xy: 2, 105
+  size: 101, 167
+  orig: 120, 180
+  offset: 10, 8
+  index: -1
+glizi_00028
+  rotate: true
+  xy: 2, 2
+  size: 101, 167
+  orig: 120, 180
+  offset: 10, 8
+  index: -1

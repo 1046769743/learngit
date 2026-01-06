@@ -1,0 +1,41 @@
+
+zp_jin.png
+size: 512,512
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+0
+  rotate: false
+  xy: 2, 107
+  size: 3, 4
+  orig: 3, 4
+  offset: 0, 0
+  index: -1
+1
+  rotate: false
+  xy: 2, 150
+  size: 190, 177
+  orig: 201, 194
+  offset: 4, 9
+  index: -1
+2
+  rotate: false
+  xy: 194, 185
+  size: 133, 142
+  orig: 135, 146
+  offset: 1, 2
+  index: -1
+3
+  rotate: false
+  xy: 2, 113
+  size: 35, 35
+  orig: 35, 35
+  offset: 0, 0
+  index: -1
+4
+  rotate: false
+  xy: 194, 84
+  size: 97, 99
+  orig: 98, 99
+  offset: 1, 0
+  index: -1

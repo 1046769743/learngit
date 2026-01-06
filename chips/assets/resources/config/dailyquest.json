@@ -1,0 +1,14 @@
+{
+  "1": {"ID":1, "UserDollar":30, "QuestID":[1,5]},
+  "2": {"ID":2, "UserDollar":100, "QuestID":[1,5]},
+  "3": {"ID":3, "UserDollar":400, "QuestID":[2,6]},
+  "4": {"ID":4, "UserDollar":700, "QuestID":[2,6]},
+  "5": {"ID":5, "UserDollar":1000, "QuestID":[3,6]},
+  "6": {"ID":6, "UserDollar":1400, "QuestID":[3,6]},
+  "7": {"ID":7, "UserDollar":2000, "QuestID":[3,6]},
+  "8": {"ID":8, "UserDollar":2800, "QuestID":[3,6]},
+  "9": {"ID":9, "UserDollar":4000, "QuestID":[4,7]},
+  "10": {"ID":10, "UserDollar":5200, "QuestID":[4,7]},
+  "11": {"ID":11, "UserDollar":8200, "QuestID":[4,7]},
+  "12": {"ID":12, "UserDollar":9999999, "QuestID":[4,7]}
+}

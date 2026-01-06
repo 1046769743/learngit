@@ -1,0 +1,132 @@
+
+caidai.png
+size: 929,801
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+1
+  rotate: false
+  xy: 804, 707
+  size: 123, 92
+  orig: 125, 95
+  offset: 1, 2
+  index: -1
+10
+  rotate: true
+  xy: 854, 397
+  size: 89, 61
+  orig: 91, 63
+  offset: 1, 1
+  index: -1
+11
+  rotate: false
+  xy: 862, 287
+  size: 43, 42
+  orig: 43, 43
+  offset: 0, 1
+  index: -1
+12
+  rotate: false
+  xy: 804, 157
+  size: 68, 100
+  orig: 70, 104
+  offset: 1, 1
+  index: -1
+13
+  rotate: false
+  xy: 874, 214
+  size: 36, 43
+  orig: 37, 47
+  offset: 0, 0
+  index: -1
+14
+  rotate: false
+  xy: 874, 165
+  size: 24, 47
+  orig: 24, 49
+  offset: 0, 1
+  index: -1
+15
+  rotate: true
+  xy: 848, 20
+  size: 36, 26
+  orig: 36, 26
+  offset: 0, 0
+  index: -1
+16
+  rotate: false
+  xy: 862, 259
+  size: 49, 26
+  orig: 66, 27
+  offset: 0, 0
+  index: -1
+17
+  rotate: false
+  xy: 875, 136
+  size: 24, 27
+  orig: 24, 28
+  offset: 0, 0
+  index: -1
+2
+  rotate: false
+  xy: 804, 488
+  size: 87, 99
+  orig: 91, 102
+  offset: 2, 2
+  index: -1
+3
+  rotate: false
+  xy: 892, 608
+  size: 27, 97
+  orig: 27, 97
+  offset: 0, 0
+  index: -1
+4
+  rotate: false
+  xy: 804, 589
+  size: 86, 116
+  orig: 92, 121
+  offset: 2, 4
+  index: -1
+5
+  rotate: false
+  xy: 804, 259
+  size: 56, 105
+  orig: 57, 107
+  offset: 0, 1
+  index: -1
+6
+  rotate: false
+  xy: 862, 331
+  size: 64, 64
+  orig: 67, 66
+  offset: 2, 1
+  index: -1
+7
+  rotate: false
+  xy: 804, 58
+  size: 69, 97
+  orig: 71, 101
+  offset: 1, 2
+  index: -1
+8
+  rotate: false
+  xy: 804, 366
+  size: 48, 120
+  orig: 50, 123
+  offset: 1, 1
+  index: -1
+9
+  rotate: false
+  xy: 804, 12
+  size: 42, 44
+  orig: 43, 45
+  offset: 1, 0
+  index: -1
+dd
+  rotate: false
+  xy: 2, 2
+  size: 800, 797
+  orig: 800, 797
+  offset: 0, 0
+  index: -1

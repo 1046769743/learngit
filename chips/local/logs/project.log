@@ -1,0 +1,79 @@
+2025-09-23T06:59:11.330Z - success: protocol editor-framework registered
+2025-09-23T06:59:11.330Z - success: protocol app registered
+2025-09-23T06:59:11.330Z - success: protocol theme registered
+2025-09-23T06:59:11.330Z - success: protocol packages registered
+2025-09-23T06:59:11.346Z - normal: Load ~/.CocosCreator/settings.json
+2025-09-23T06:59:11.364Z - success: protocol uuid registerred
+2025-09-23T06:59:11.364Z - success: protocol db registerred
+2025-09-23T06:59:11.364Z - success: protocol thumbnail registerred
+2025-09-23T06:59:11.436Z - normal: Initializing Asset Database
+2025-09-23T06:59:11.449Z - normal: checking language setting...
+2025-09-23T06:59:11.449Z - normal: Language: zh
+2025-09-23T06:59:11.451Z - success: protocol unpack registerred
+2025-09-23T06:59:11.451Z - success: protocol disable-commonjs registerred
+2025-09-23T06:59:11.783Z - normal: connected!
+2025-09-23T06:59:11.898Z - normal: Check project D:\cocosproject\mergegamecocos
+2025-09-23T06:59:11.899Z - normal: Initializing project D:\cocosproject\mergegamecocos
+2025-09-23T06:59:13.206Z - success: adapters loaded
+2025-09-23T06:59:13.241Z - success: asset-db-debugger loaded
+2025-09-23T06:59:13.349Z - success: fb-audience-network loaded
+2025-09-23T06:59:13.418Z - success: fb-live-stream loaded
+2025-09-23T06:59:13.468Z - success: google-play-instant loaded
+2025-09-23T06:59:13.468Z - success: jsb-adapter loaded
+2025-09-23T06:59:13.499Z - success: package-manager loaded
+2025-09-23T06:59:13.507Z - success: runtime-adapters loaded
+2025-09-23T06:59:13.560Z - success: runtime-dev-tools loaded
+2025-09-23T06:59:13.593Z - success: ui-kit-preview-extra loaded
+2025-09-23T06:59:13.621Z - success: ui-kit-preview loaded
+2025-09-23T06:59:15.012Z - success: alipay-minigame loaded
+2025-09-23T06:59:15.017Z - success: assets loaded
+2025-09-23T06:59:15.020Z - success: baidugame-opendata loaded
+2025-09-23T06:59:15.023Z - success: baidugame loaded
+2025-09-23T06:59:15.045Z - success: builder loaded
+2025-09-23T06:59:15.048Z - success: bytedance-opendata loaded
+2025-09-23T06:59:15.050Z - success: bytedance loaded
+2025-09-23T06:59:15.053Z - success: channel-upload-tools loaded
+2025-09-23T06:59:15.179Z - success: cloud-function loaded
+2025-09-23T06:59:15.319Z - success: cocos-services loaded
+2025-09-23T06:59:15.321Z - success: console loaded
+2025-09-23T06:59:15.324Z - success: curve-editor loaded
+2025-09-23T06:59:15.332Z - success: fb-instant-games loaded
+2025-09-23T06:59:15.335Z - success: game-window loaded
+2025-09-23T06:59:15.336Z - success: google-instant-games loaded
+2025-09-23T06:59:15.339Z - success: hierarchy loaded
+2025-09-23T06:59:15.341Z - success: huawei-agc loaded
+2025-09-23T06:59:15.344Z - success: huawei-runtime loaded
+2025-09-23T06:59:15.346Z - success: inspector loaded
+2025-09-23T06:59:15.358Z - success: cpk-publish loaded
+2025-09-23T06:59:15.359Z - success: keystore loaded
+2025-09-23T06:59:15.374Z - success: link-sure-runtime loaded
+2025-09-23T06:59:15.400Z - success: node-library loaded
+2025-09-23T06:59:15.401Z - success: open-recent-items loaded
+2025-09-23T06:59:15.404Z - success: oppo-runtime loaded
+2025-09-23T06:59:15.406Z - success: package-asset loaded
+2025-09-23T06:59:15.407Z - success: preferences loaded
+2025-09-23T06:59:15.408Z - success: project-importer loaded
+2025-09-23T06:59:15.410Z - success: project-settings loaded
+2025-09-23T06:59:15.423Z - success: qtt-runtime loaded
+2025-09-23T06:59:15.425Z - success: scene loaded
+2025-09-23T06:59:15.426Z - success: simulator-debugger loaded
+2025-09-23T06:59:15.428Z - success: sprite-editor loaded
+2025-09-23T06:59:15.485Z - success: store loaded
+2025-09-23T06:59:15.488Z - success: taobao-creativeapp loaded
+2025-09-23T06:59:15.491Z - success: timeline loaded
+2025-09-23T06:59:15.496Z - success: vivo-runtime loaded
+2025-09-23T06:59:15.498Z - success: wechatgame-opendata loaded
+2025-09-23T06:59:15.501Z - success: wechatgame loaded
+2025-09-23T06:59:15.504Z - success: xiaomi-runtime loaded
+2025-09-23T06:59:15.795Z - success: im-plugin loaded
+2025-09-23T06:59:15.823Z - success: hyz-encript loaded
+2025-09-23T06:59:15.824Z - warn: The current '7456' preview port is already occupied, the port is automatically incremented
+2025-09-23T06:59:15.824Z - warn: The current '7457' preview port is already occupied, the port is automatically incremented
+2025-09-23T06:59:15.825Z - success: preview server running at http://localhost:7458
+2025-09-23T06:59:16.313Z - info: Cocos Service load base data!
+2025-09-23T06:59:16.352Z - normal: Initializing Cocos2d
+2025-09-23T06:59:16.617Z - normal: Initializing engine extends
+2025-09-23T06:59:26.670Z - normal: Loading packages
+2025-09-23T06:59:26.673Z - normal: Run Application
+2025-09-23T06:59:29.999Z - success: cloud-function unloaded
+2025-09-23T07:22:29.397Z - info: shutdown preview server

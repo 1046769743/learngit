@@ -1,0 +1,13 @@
+
+xiaoshou.png
+size: 256,128
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+xiaoshou
+  rotate: false
+  xy: 2, 2
+  size: 127, 91
+  orig: 127, 91
+  offset: 0, 0
+  index: -1

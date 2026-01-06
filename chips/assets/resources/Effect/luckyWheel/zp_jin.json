@@ -1,0 +1,71 @@
+{
+"skeleton": {
+	"hash": "ksWZ3VgMMU5Iql17PrqkdsD3/t0",
+	"spine": "3.8.99",
+	"x": -100.7,
+	"y": -107.26,
+	"width": 201,
+	"height": 194,
+	"images": "./images/",
+	"audio": "D:/资源库/符号slots/活动入口/金转盘/images"
+},
+"bones": [
+	{ "name": "root" },
+	{ "name": "bone", "parent": "root", "length": 64.69, "rotation": 88.96, "x": -118.33, "y": 0.12 },
+	{ "name": "bone2", "parent": "bone", "length": 54.93, "rotation": -114.69, "x": 2.12, "y": -118.28 },
+	{ "name": "bone3", "parent": "bone", "length": 32.16, "rotation": 168.9, "x": -0.57, "y": -118.47 }
+],
+"slots": [
+	{ "name": "4", "bone": "bone3", "attachment": "4" },
+	{ "name": "3", "bone": "bone", "attachment": "3" },
+	{ "name": "2", "bone": "bone", "attachment": "2" },
+	{ "name": "1", "bone": "bone2", "attachment": "1" },
+	{ "name": "0", "bone": "bone" }
+],
+"skins": [
+	{
+		"name": "default",
+		"attachments": {
+			"0": {
+				"0": { "x": 1.77, "y": -118.12, "rotation": -88.96, "width": 3, "height": 4 }
+			},
+			"1": {
+				"1": { "x": 4.34, "y": -9.39, "rotation": 25.73, "width": 201, "height": 194 }
+			},
+			"2": {
+				"2": { "x": -1.23, "y": -118.17, "rotation": -88.96, "width": 135, "height": 146 }
+			},
+			"3": {
+				"3": { "x": 1.29, "y": -119.13, "rotation": -88.96, "width": 35, "height": 35 }
+			},
+			"4": {
+				"4": { "x": 0.33, "y": -0.76, "rotation": 102.14, "width": 98, "height": 99 }
+			}
+		}
+	}
+],
+"animations": {
+	"animation": {
+		"bones": {
+			"bone3": {
+				"rotate": [
+					{ "angle": 102.14 },
+					{ "time": 0.6667, "angle": -167.86 },
+					{ "time": 1.3333, "angle": -77.86 },
+					{ "time": 2, "angle": 12.14 },
+					{ "time": 2.5, "angle": 102.14 }
+				]
+			},
+			"bone2": {
+				"rotate": [
+					{ "angle": 25.73 },
+					{ "time": 0.6667, "angle": -64.27 },
+					{ "time": 1.3333, "angle": -154.27 },
+					{ "time": 2, "angle": 115.73 },
+					{ "time": 2.5, "angle": 25.73 }
+				]
+			}
+		}
+	}
+}
+}

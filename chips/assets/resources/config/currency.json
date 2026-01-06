@@ -1,0 +1,173 @@
+{
+    "id": {
+        "countryCode": "id",
+        "currencyCode": "IDR",
+        "symbol": "Rp",
+        "exchangeRate": 15000,
+        "decimalPlaces": 0,
+        "thousandsSeparator": ".",
+        "decimalSeparator": "."
+    },
+    "br": {
+        "countryCode": "br",
+        "currencyCode": "BRL",
+        "symbol": "R$",
+        "exchangeRate": 5,
+        "decimalPlaces": 2,
+        "thousandsSeparator": ".",
+        "decimalSeparator": ","
+    },
+    "ru": {
+        "countryCode": "ru",
+        "currencyCode": "RUB",
+        "symbol": "₽",
+        "exchangeRate": 100,
+        "decimalPlaces": 0,
+        "thousandsSeparator": ".",
+        "decimalSeparator": ","
+    },
+    "kr": {
+        "countryCode": "kr",
+        "currencyCode": "KRW",
+        "symbol": "₩",
+        "exchangeRate": 1350,
+        "decimalPlaces": 0,
+        "thousandsSeparator": ",",
+        "decimalSeparator": "."
+    },
+    "jp": {
+        "countryCode": "jp",
+        "currencyCode": "JPY",
+        "symbol": "Ұ",
+        "exchangeRate": 155,
+        "decimalPlaces": 0,
+        "thousandsSeparator": ",",
+        "decimalSeparator": "."
+    },
+    "in": {
+        "countryCode": "in",
+        "currencyCode": "INR",
+        "symbol": "₹",
+        "exchangeRate": 90,
+        "decimalPlaces": 0,
+        "thousandsSeparator": ",",
+        "decimalSeparator": "."
+    },
+    "en": {
+        "countryCode": "en",
+        "currencyCode": "USD",
+        "symbol": "$",
+        "exchangeRate": 1,
+        "decimalPlaces": 2,
+        "thousandsSeparator": ",",
+        "decimalSeparator": "."
+    },
+    "us": {
+        "countryCode": "us",
+        "currencyCode": "USD",
+        "symbol": "$",
+        "exchangeRate": 1,
+        "decimalPlaces": 2,
+        "thousandsSeparator": ",",
+        "decimalSeparator": "."
+    },
+    "es": {
+        "countryCode": "us",
+        "currencyCode": "USD",
+        "symbol": "$",
+        "exchangeRate": 1,
+        "decimalPlaces": 2,
+        "thousandsSeparator": ",",
+        "decimalSeparator": "."
+    },
+    "de": {
+        "countryCode": "de",
+        "currencyCode": "EUR",
+        "symbol": "€",
+        "exchangeRate": 1,
+        "decimalPlaces": 2,
+        "thousandsSeparator": ".",
+        "decimalSeparator": ","
+    },
+    "pt": {
+        "countryCode": "pt",
+        "currencyCode": "EUR",
+        "symbol": "€",
+        "exchangeRate": 1,
+        "decimalPlaces": 2,
+        "thousandsSeparator": ".",
+        "decimalSeparator": ","
+    },
+    "fr": {
+        "countryCode": "fr",
+        "currencyCode": "EUR",
+        "symbol": "€",
+        "exchangeRate": 1,
+        "decimalPlaces": 2,
+        "thousandsSeparator": " ",
+        "decimalSeparator": ","
+    },
+    "mx": {
+        "countryCode": "mx",
+        "currencyCode": "MXN",
+        "symbol": "$",
+        "exchangeRate": 1,
+        "decimalPlaces": 2,
+        "thousandsSeparator": ",",
+        "decimalSeparator": "."
+    },
+    "cl": {
+        "countryCode": "cl",
+        "currencyCode": "CLP",
+        "symbol": "$",
+        "exchangeRate": 1,
+        "decimalPlaces": 0,
+        "thousandsSeparator": ".",
+        "decimalSeparator": ","
+    },
+    "co": {
+        "countryCode": "co",
+        "currencyCode": "COP",
+        "symbol": "$",
+        "exchangeRate": 1,
+        "decimalPlaces": 0,
+        "thousandsSeparator": ".",
+        "decimalSeparator": ","
+    },
+    "pe": {
+        "countryCode": "pe",
+        "currencyCode": "PEN",
+        "symbol": "S/",
+        "exchangeRate": 1,
+        "decimalPlaces": 2,
+        "thousandsSeparator": ",",
+        "decimalSeparator": "."
+    },
+    "ar": {
+        "countryCode": "ar",
+        "currencyCode": "ARS",
+        "symbol": "$",
+        "exchangeRate": 1,
+        "decimalPlaces": 2,
+        "thousandsSeparator": ".",
+        "decimalSeparator": ","
+    },
+    "pk": {
+        "countryCode": "pk",
+        "currencyCode": "PKR",
+        "symbol": "Rs",
+        "exchangeRate": 1,
+        "decimalPlaces": 2,
+        "thousandsSeparator": ",",
+        "decimalSeparator": "."
+    },
+    "it": {
+        "countryCode": "it",
+        "currencyCode": "EUR",
+        "symbol": "€",
+        "exchangeRate": 1,
+        "decimalPlaces": 2,
+        "thousandsSeparator": ".",
+        "decimalSeparator": ","
+    }
+}

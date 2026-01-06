@@ -1,0 +1,153 @@
+
+pengzhuanglz.png
+size: 2048,1024
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+lizi_00000
+  rotate: false
+  xy: 1409, 387
+  size: 81, 87
+  orig: 440, 440
+  offset: 201, 194
+  index: -1
+lizi_00001
+  rotate: false
+  xy: 1306, 364
+  size: 101, 110
+  orig: 440, 440
+  offset: 188, 184
+  index: -1
+lizi_00002
+  rotate: false
+  xy: 1180, 343
+  size: 124, 131
+  orig: 440, 440
+  offset: 175, 173
+  index: -1
+lizi_00003
+  rotate: false
+  xy: 1373, 212
+  size: 148, 150
+  orig: 440, 440
+  offset: 163, 164
+  index: -1
+lizi_00004
+  rotate: true
+  xy: 187, 26
+  size: 172, 167
+  orig: 440, 440
+  offset: 151, 156
+  index: -1
+lizi_00005
+  rotate: true
+  xy: 2, 4
+  size: 194, 183
+  orig: 440, 440
+  offset: 140, 148
+  index: -1
+lizi_00006
+  rotate: true
+  xy: 578, 24
+  size: 215, 201
+  orig: 440, 440
+  offset: 130, 138
+  index: -1
+lizi_00007
+  rotate: true
+  xy: 356, 2
+  size: 237, 220
+  orig: 440, 440
+  offset: 119, 127
+  index: -1
+lizi_00008
+  rotate: true
+  xy: 1361, 763
+  size: 259, 238
+  orig: 440, 440
+  offset: 107, 117
+  index: -1
+lizi_00009
+  rotate: true
+  xy: 1180, 476
+  size: 263, 254
+  orig: 440, 440
+  offset: 95, 106
+  index: -1
+lizi_00010
+  rotate: true
+  xy: 1089, 741
+  size: 281, 270
+  orig: 440, 440
+  offset: 85, 95
+  index: -1
+lizi_00011
+  rotate: false
+  xy: 781, 2
+  size: 300, 275
+  orig: 440, 440
+  offset: 75, 85
+  index: -1
+lizi_00012
+  rotate: true
+  xy: 1083, 19
+  size: 317, 288
+  orig: 440, 440
+  offset: 65, 76
+  index: -1
+lizi_00013
+  rotate: true
+  xy: 879, 338
+  size: 333, 299
+  orig: 440, 440
+  offset: 56, 68
+  index: -1
+lizi_00014
+  rotate: true
+  xy: 781, 673
+  size: 349, 306
+  orig: 440, 440
+  offset: 47, 61
+  index: -1
+lizi_00015
+  rotate: true
+  xy: 589, 279
+  size: 364, 288
+  orig: 440, 440
+  offset: 39, 56
+  index: -1
+lizi_00016
+  rotate: true
+  xy: 489, 645
+  size: 377, 290
+  orig: 440, 440
+  offset: 32, 57
+  index: -1
+lizi_00017
+  rotate: true
+  xy: 300, 241
+  size: 386, 287
+  orig: 440, 440
+  offset: 29, 63
+  index: -1
+lizi_00018
+  rotate: true
+  xy: 194, 629
+  size: 393, 293
+  orig: 440, 440
+  offset: 27, 58
+  index: -1
+lizi_00019
+  rotate: true
+  xy: 2, 200
+  size: 405, 296
+  orig: 440, 440
+  offset: 20, 55
+  index: -1
+lizi_00020
+  rotate: true
+  xy: 2, 607
+  size: 415, 190
+  orig: 440, 440
+  offset: 15, 106
+  index: -1
